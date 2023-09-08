@@ -1,0 +1,1301 @@
+,Restaurant Id,Restaurant Name,Country,City,User Rating Votes,User Aggregate Rating,Cuisines
+0,18649486.0,The Drunken Botanist,India,Gurgaon,4765,4.4,"Continental, Italian, North Indian, Chinese"
+1,308322.0,Hauz Khas Social,India,New Delhi,13627,4.6,"Continental, American, Asian, North Indian, Chinese, Pizza, Biryani, Beverages"
+2,18856789.0,AIR- An Ivory Region,India,New Delhi,1819,4.1,"North Indian, Chinese, Continental, Asian"
+3,307374.0,AMA Cafe,India,New Delhi,3252,4.4,"Cafe, Juices"
+4,18238278.0,Tamasha,India,New Delhi,8112,4.4,"Finger Food, North Indian, Continental, Italian"
+5,18268712.0,Chili's Grill & Bar,India,Noida,3702,4.6,"Mexican, American, Italian, Burger"
+6,18198449.0,Punjabi Angithi,India,New Delhi,3613,4.7,"North Indian, Chinese, Momos, Rolls, Fast Food"
+7,18382360.0,Local,India,New Delhi,5694,4.3,"North Indian, Continental, Momos"
+8,18273624.0,Cafeteria & Co.,India,New Delhi,4229,4.5,"Continental, Mexican, Fast Food"
+9,18466951.0,Jungle Jamboree,India,Noida,2832,4.5,"North Indian, Continental, Chinese, BBQ"
+10,306046.0,SodaBottleOpenerWala,India,Gurgaon,3818,4.2,"Parsi, North Indian, Maharashtrian, Beverages, Bakery"
+11,18337893.0,The Luggage Room Kitchen And Bar,India,New Delhi,1622,4.5,"Italian, Chinese, Continental"
+12,18518483.0,Echoes Hudson Lane,India,New Delhi,2534,4.6,"Cafe, American, Chinese, Continental, North Indian, Italian"
+13,18246991.0,Odeon Social,India,New Delhi,5808,4.4,"Continental, American, Asian, North Indian, Momos, Beverages"
+14,8913.0,Pirates of Grill,India,Gurgaon,5760,4.9,"North Indian, Mughlai, Continental"
+15,313256.0,The Junkyard Cafe,India,New Delhi,5512,4.5,"North Indian, Mediterranean, Asian, Salad, Momos"
+16,18562836.0,Diggin,India,New Delhi,2335,4.2,"Italian, Continental, Beverages"
+17,17953943.0,The Burger Club,India,New Delhi,2411,4.2,"Burger, Fast Food, Beverages"
+18,18258498.0,Chinese Kitchen,India,New Delhi,713,4.1,"Fast Food, Chinese, Momos"
+19,18537536.0,Chili's Grill & Bar,India,New Delhi,2364,4.6,"Mexican, American, Italian"
+20,18707652.0,Zam Zam,India,Kolkata,824,4.4,"Biryani, Mughlai"
+21,18571735.0,Dum Laga Ke Haishaa,India,Kolkata,770,4.5,"Continental, Biryani, North Indian, Chinese, Kebab"
+22,18398880.0,JW Kitchen - JW Marriott Hotel Kolkata,India,Kolkata,3578,4.6,"North Indian, European, Mediterranean, Thai, Salad, Juices"
+23,18677746.0,Burger in Law,India,Kolkata,455,4.7,"Burger, Fast Food"
+24,17983797.0,Dada Boudi Restaurant,India,Kolkata,1993,4.3,"Mughlai, North Indian, Chinese"
+25,18538536.0,Scrapyard,India,Kolkata,1260,4.2,"North Indian, Chinese, Continental"
+26,25570.0,Barbeque Nation,India,Kolkata,4597,4.8,"North Indian, Chinese, Kebab, BBQ"
+27,18354569.0,Tram Deepo,India,Kolkata,1895,4.4,"Continental, Chinese, Fast Food, Finger Food, North Indian, Mexican"
+28,18259462.0,Ocean Grill,India,Kolkata,2318,4.3,"Continental, Seafood, North Indian, Asian"
+29,18761167.0,Echoes Kolkata,India,Kolkata,456,4.8,"North Indian, Continental, Chinese, Italian, American"
+30,18751849.0,Five Mad Men,India,Kolkata,1465,4.3,"American, Chinese, Continental, North Indian"
+31,20747.0,India Restaurant,India,Kolkata,3909,4.5,"Biryani, Mughlai"
+32,18461760.0,Kankurgachi Dhaba,India,Kolkata,700,3.9,"North Indian, Biryani, Chinese"
+33,20404.0,Peter Cat,India,Kolkata,11476,4.2,"Continental, North Indian"
+34,18017615.0,What's Up,India,Kolkata,4162,4.4,"Chinese, Continental, Italian, Kebab"
+35,18265479.0,BJs Sports Restrau Cum Lounge,India,Kolkata,1405,4.7,"Cafe, North Indian"
+36,18377098.0,CALCUTTA 64,India,Kolkata,2134,4.4,"Italian, Continental, Mexican"
+37,18377112.0,Nawwarah Fine Dine & Lounge,India,Kolkata,1993,4.3,"North Indian, Chinese"
+38,18610904.0,The Fatty Bao,India,Kolkata,884,4.6,"Japanese, Sushi, Asian"
+39,18711365.0,The Saffron Tree,India,Kolkata,1274,4.8,"Mughlai, Continental, Biryani"
+40,18392725.0,Tamasha,India,Mumbai,4553,4.6,"Finger Food, Continental"
+41,18701052.0,The Fusion Kitchen,India,Mumbai,2723,4.7,"Chinese, Continental, European, North Indian, Italian, Mexican, Pizza"
+42,18548172.0,Hitchki,India,Mumbai,3418,4.8,"Modern Indian, North Indian, Chinese, Momos, Biryani, Continental, American, Fast Food"
+43,18591040.0,Hitchki,India,Mumbai,3524,4.9,"Modern Indian, North Indian, Chinese, Momos, Biryani, Continental, American, Fast Food"
+44,19008239.0,HAS South Bombay,India,Mumbai,475,4.2,South Indian
+45,18392711.0,Lord Of The Drinks,India,Mumbai,2604,4.6,"Finger Food, Continental, European, Chinese, North Indian, Italian"
+46,18616378.0,Lord of the Drinks,India,Mumbai,2362,4.8,"Finger Food, Continental, European, Chinese, North Indian, Italian"
+47,18669432.0,HITCHKI,India,Thane,1899,4.8,"Modern Indian, North Indian, Chinese, Momos, American, Biryani, Continental, Fast Food"
+48,18566818.0,JLWA,India,Mumbai,3101,4.7,"Modern Indian, European, Pizza"
+49,48851.0,Rude Lounge,India,Mumbai,5003,4.4,"North Indian, Italian, Chinese, Continental, BBQ"
+50,18205932.0,The Cult - Peninsula Grand Hotel,India,Mumbai,3142,4.5,"Continental, North Indian, Chinese"
+51,18732598.0,Timess Square,India,Mumbai,2113,4.4,"Continental, Mexican, North Indian"
+52,18580259.0,Coffee Culture,India,Mumbai,6023,4.2,"Cafe, Italian, Pizza, Continental, Beverages"
+53,34757.0,Joey's Pizza,India,Mumbai,7344,4.6,Pizza
+54,18522518.0,Vikhroli Social,India,Mumbai,1934,4.3,"American, North Indian, Chinese, Asian, Beverages, Continental, Biryani"
+55,18917650.0,Warehouse Kitchenbar,India,Mumbai,666,4.5,"North Indian, Asian, Burmese, Chinese, Continental, Desserts"
+56,35217.0,Joey's Pizza,India,Mumbai,8669,4.5,Pizza
+57,18397684.0,Craftbar,India,Mumbai,1347,4.8,"Continental, Mediterranean, Modern Indian, Mexican"
+58,36403.0,Prithvi Cafe,India,Mumbai,7995,4.4,"Cafe, Fast Food"
+59,18691230.0,Grandmama's Café,India,Mumbai,1108,4.3,"Cafe, American, Italian, Parsi, Desserts"
+60,58882.0,Byg Brewski Brewing Company,India,Bangalore,17394,4.9,"Continental, North Indian, Italian, South Indian, Finger Food"
+61,18706428.0,Byg Brewski Brewing Company,India,Bangalore,5692,4.8,"Finger Food, Asian, Pizza, Italian, North Indian, Desserts"
+62,18871246.0,ShakesBierre,India,Bangalore,572,4.5,"Asian, Continental, European, North Indian"
+63,18772094.0,Bombay Adda,India,Bangalore,3023,4.3,Modern Indian
+64,18578798.0,TBC Sky Lounge,India,Bangalore,7673,4.7,"Continental, Asian, Italian, North Indian"
+65,18945224.0,Secret Of Bangalore,India,Bangalore,866,4.3,"North Indian, South Indian, Continental, Asian, Desserts"
+66,18254597.0,Brew and Barbeque - A Microbrewery Pub,India,Bangalore,6330,4.6,"Continental, North Indian, BBQ, Steak"
+67,18387426.0,The Black Pearl,India,Bangalore,7769,4.7,"North Indian, European, Mediterranean, BBQ"
+68,57833.0,Big Pitcher,India,Bangalore,9664,4.6,"American, Continental, North Indian, Mediterranean"
+69,54162.0,The Black Pearl,India,Bangalore,10892,4.8,"North Indian, European, Mediterranean"
+70,18853706.0,Brahma Brews,India,Bangalore,610,4.3,"Continental, South Indian, Finger Food, Pizza, Seafood"
+71,18625420.0,Burma Burma,India,Bangalore,1788,4.7,"Asian, Burmese"
+72,18595782.0,The Pallet,India,Bangalore,3013,4.6,"Continental, Mediterranean, Italian, North Indian, Finger Food, Asian, Momos"
+73,18537585.0,The Reservoire,India,Bangalore,2724,4.6,"Continental, North Indian, Chinese, American"
+74,56618.0,AB's - Absolute Barbecues,India,Bangalore,12443,4.9,"European, Mediterranean, North Indian, BBQ"
+75,51040.0,Truffles,India,Bangalore,14984,4.7,"Cafe, American, Burger, Steak"
+76,18874059.0,The Pump House,India,Bangalore,1057,4.3,"Continental, Finger Food"
+77,18709627.0,Simon Says Brew Works,India,Bangalore,2362,4.6,"Continental, American, Italian, Modern Indian, Pizza, Burger"
+78,18727906.0,XOOX Brewmill,India,Bangalore,1782,4.5,"Modern Indian, European, Asian"
+79,18642512.0,Stories,India,Bangalore,2636,4.6,"Continental, North Indian, Chinese"
+80,18893197.0,FC Road Social,India,Pune,606,4.0,"Continental, American, Asian, North Indian, South Indian, European, Chinese, Fast Food"
+81,18880433.0,BeHive,India,Pune,347,4.3,"North Indian, Chinese, Continental"
+82,18715982.0,Flechazo,India,Pune,2927,4.7,"Asian, Mediterranean, North Indian"
+83,18562250.0,Cafe Co2 Resto Lounge,India,Pune,1406,4.2,"North Indian, Chinese, Continental, Kebab, Seafood"
+84,6508166.0,Flying Duck Co.,India,Pune,1266,4.5,"Asian, European"
+85,18586395.0,Onesta,India,Pune,2770,4.8,"Pizza, Italian, Fast Food, Beverages, Desserts"
+86,18732937.0,Darshan,India,Pune,1657,4.6,"Italian, Continental, Chinese, Mexican, Fast Food, Street Food, Desserts"
+87,18784250.0,Universal Barbeque,India,Pune,1686,4.5,"BBQ, Chinese, North Indian, Beverages"
+88,18740139.0,Grandmama's Cafe,India,Pune,1286,4.1,"Continental, Beverages, Desserts, Fast Food"
+89,18545152.0,AB's - Absolute Barbecues,India,Pune,5225,4.8,"Continental, North Indian, Chinese"
+90,18417624.0,The Sassy Spoon,India,Pune,1627,4.6,"European, Asian, Italian, Finger Food, Salad, Fast Food"
+91,18383095.0,Teddy Boy,India,Pune,4547,4.2,"North Indian, Continental"
+92,18621437.0,The FML Lounge,India,Pune,2059,4.1,"North Indian, Chinese, Continental, Finger Food"
+93,18890430.0,The Barkhana,India,Pune,330,4.4,"North Indian, Continental"
+94,18617201.0,Onesta,India,Pune,2168,4.7,"Pizza, Italian, Fast Food, Beverages, Desserts"
+95,18650304.0,Tatva,India,Pune,2340,4.4,"North Indian, Chinese, Continental"
+96,18657534.0,Viman Nagar Social,India,Pune,2352,4.5,"Continental, American, Asian, North Indian, South Indian, Chinese, European, Fast Food"
+97,18536004.0,Culture - पुणे,India,Pune,2912,4.2,"Continental, North Indian, Italian, Mediterranean, European, Finger Food, Desserts"
+98,6508323.0,The Urban Foundry,India,Pune,3369,4.6,"Asian, Indian"
+99,18678581.0,Hippie@Heart,India,Pune,631,4.5,"Continental, Italian, North Indian, Finger Food, European"
+100,90896.0,Bawarchi,India,Hyderabad,41333,4.5,"Biryani, Hyderabadi, North Indian, Seafood"
+101,18550292.0,Flechazo,India,Hyderabad,7577,4.7,"Asian, Mediterranean, North Indian, Momos"
+102,18312984.0,Sahib’s Barbeque by Ohri’s,India,Hyderabad,5346,4.7,"Hyderabadi, Awadhi, BBQ"
+103,18538735.0,Over The Moon Brew Company,India,Hyderabad,2055,4.7,"Asian, Continental, North Indian, Chinese, Mediterranean"
+104,18470497.0,84 Anjuna Shack,India,Hyderabad,1779,4.1,"Cafe, Italian, French, Goan, Continental"
+105,18207447.0,Shah Ghouse Hotel & Restaurant,India,Hyderabad,11836,4.2,"Biryani, North Indian, Chinese"
+106,18544039.0,The Roastery Coffee House,India,Hyderabad,3258,4.8,"American, Cafe, Continental"
+107,90499.0,Coffee Cup,India,Secunderabad,3766,4.6,"Cafe, Continental, Salad"
+108,18582430.0,Lucky Restaurant,India,Hyderabad,10298,4.2,"Biryani, North Indian, Chinese"
+109,18514668.0,Captain Cook,India,Hyderabad,9076,3.9,"Biryani, North Indian, Chinese"
+110,18715296.0,Bakasura Restaurant,India,Secunderabad,651,4.0,"Andhra, South Indian, Chinese"
+111,18673497.0,Onesta,India,Hyderabad,2143,4.4,"Pizza, Italian, Fast Food, Beverages, Desserts"
+112,95831.0,Green Bawarchi,India,Hyderabad,6293,3.7,"North Indian, Chinese, Biryani"
+113,18138652.0,Paradise,India,Hyderabad,5781,4.5,"Biryani, North Indian, Chinese"
+114,90903.0,Shah Ghouse Cafe & Restaurant,India,Hyderabad,7309,4.3,"Biryani, North Indian, Chinese"
+115,18807262.0,Broadway,India,Hyderabad,827,4.6,"Continental, North Indian, Chinese"
+116,18774025.0,eat.fit,India,Hyderabad,621,4.4,"Healthy Food, North Indian, Continental, South Indian"
+117,18965675.0,Chubby Cho,India,Hyderabad,156,4.4,"Chinese, Asian, Sushi, Japanese"
+118,18607685.0,Farzi Cafe,India,Hyderabad,2046,4.7,Modern Indian
+119,94402.0,4M Biryani House,India,Hyderabad,4250,4.3,"Biryani, North Indian"
+120,18938720.0,Coal Barbecues,India,Chennai,1517,4.9,"North Indian, Mediterranean, Asian, Arabian, BBQ"
+121,18800810.0,The Black Pearl,India,Chennai,1435,4.6,"North Indian, European, Mediterranean, Continental, BBQ"
+122,18595414.0,Coal Barbecues,India,Chennai,5776,4.9,"North Indian, Mediterranean, Asian, Arabian, BBQ"
+123,18513783.0,Onesta,India,Chennai,4578,4.7,"Pizza, Italian, Fast Food, Beverages, Desserts"
+124,70856.0,AB's - Absolute Barbecues,India,Chennai,9774,4.9,"BBQ, North Indian, European, Mediterranean"
+125,18423043.0,Dhaba Estd 1986 Delhi,India,Chennai,1283,4.6,"North Indian, Desserts, Beverages"
+126,67407.0,Copper Kitchen,India,Chennai,3925,4.6,"Seafood, North Indian, Chinese, Mughlai, Biryani"
+127,73279.0,Paradise,India,Chennai,4642,4.4,"Biryani, North Indian, Chinese"
+128,71443.0,Palmshore,India,Chennai,3198,4.5,"Seafood, Biryani, Kebab, North Indian, Chinese, Arabian, BBQ, Juices"
+129,18588039.0,Fromage,India,Chennai,827,4.5,"Cafe, Italian, French, European"
+130,72497.0,Palmshore,India,Chennai,2742,4.6,"Seafood, Biryani, Kebab, North Indian, Chinese, Arabian, BBQ, Juices"
+131,70496.0,Sukkubhai Biriyani,India,Chennai,2113,4.4,Biryani
+132,18665421.0,Blind Ch3mistry,India,Chennai,1365,4.5,"Cafe, Fast Food, Beverages"
+133,18666824.0,AB's - Absolute Barbecues,India,Chennai,2208,4.9,"BBQ, North Indian, European, Mediterranean"
+134,71405.0,Barbeque Nation,India,Chennai,2132,4.8,"North Indian, Continental, Kebab, BBQ"
+135,18555163.0,Amelie's,India,Chennai,1217,4.4,"Cafe, Continental, Italian"
+136,71799.0,Cleo's Grill & Cafe,India,Chennai,2413,4.5,"Chinese, Continental, Steak, North Indian"
+137,18437170.0,Nasi And Mee,India,Chennai,1336,4.6,"Singaporean, Malaysian, Chinese, Asian, Thai, Momos"
+138,18619095.0,Palmshore,India,Chennai,1528,4.5,"Seafood, Biryani, Kebab, North Indian, Chinese, Arabian, BBQ, Juices"
+139,18540650.0,Guntur Gongura,India,Chennai,2086,3.7,"North Indian, Chinese, South Indian, Biryani"
+140,800894.0,Mubeen's,India,Lucknow,1352,4.4,Mughlai
+141,800468.0,Tunday Kababi,India,Lucknow,3753,4.8,"Mughlai, Lucknowi"
+142,18801082.0,Farzi Café,India,Lucknow,298,4.6,Modern Indian
+143,18970077.0,The Hazelnut Factory,India,Lucknow,203,4.4,"Bakery, Desserts, Cafe"
+144,801170.0,Spice Caves,India,Lucknow,2401,4.6,"North Indian, Chinese, Mughlai"
+145,18560184.0,The Terrace ,India,Lucknow,568,4.4,"North Indian, Continental"
+146,18971277.0,Cafe Repertwahr,India,Lucknow,131,4.1,"North Indian, Chinese, Continental, Italian, Seafood, Salad"
+147,800179.0,Mahalaxmi Sweets,India,Lucknow,1062,4.3,"Mithai, North Indian, Chinese"
+148,18980427.0,Bombay Remix,India,Lucknow,113,4.0,"North Indian, Chinese, Continental, Desserts"
+149,800089.0,Barbeque Nation,India,Lucknow,2194,4.9,North Indian
+150,800152.0,Idrish Hotel,India,Lucknow,2180,4.4,Mughlai
+151,801960.0,Dosa Planet,India,Lucknow,875,4.3,"South Indian, North Indian"
+152,18701292.0,Pirates of Grill,India,Lucknow,1746,4.9,"North Indian, Mughlai, Continental"
+153,800483.0,Dastarkhwan,India,Lucknow,2127,4.7,Mughlai
+154,801146.0,Madhurima Veg,India,Lucknow,627,4.3,"Chinese, Sandwich, Fast Food, North Indian, Italian, Desserts, South Indian"
+155,18387297.0,The Manish Eating Point,India,Lucknow,835,4.0,"North Indian, Awadhi, Biryani"
+156,800432.0,Rattilal's,India,Lucknow,630,4.0,"Mithai, Street Food, Juices"
+157,800896.0,Sardar Ji Ke Mashoor Chhole Bhature - Punjabi Zaika,India,Lucknow,692,4.1,Street Food
+158,800630.0,Royal Cafe,India,Lucknow,990,4.3,"North Indian, Chinese, Mughlai, Fast Food"
+159,18439027.0,Skyhilton,India,Lucknow,750,4.1,"North Indian, Chinese, Continental"
+160,95361.0,Ifthar,India,Kochi,770,4.1,Kerala
+161,901159.0,Westleys Restocafe (Formerly Burgeria),India,Kochi,262,4.1,"Fast Food, Ice Cream"
+162,95256.0,Kashi Art Cafe,India,Kochi,1256,4.5,"European, Cafe"
+163,18398435.0,Bikash Babu Sweets,India,Kochi,231,4.5,"Mithai, Fast Food"
+164,903046.0,Nasi And Mee,India,Kochi,235,4.8,"Malaysian, Thai, Singaporean, Asian, Chinese"
+165,902109.0,Sheba Kuzhimandhi,India,Kochi,516,4.2,Arabian
+166,900533.0,Paragon,India,Kochi,1475,4.5,"Kerala, South Indian, Continental, North Indian, Seafood, Chinese"
+167,95421.0,Dhe Puttu,India,Kochi,1162,4.3,Kerala
+168,900668.0,KFC,India,Kochi,507,3.7,"Burger, Fast Food"
+169,900524.0,Cafe 17,India,Kochi,900,4.6,"Cafe, Continental, Italian"
+170,901622.0,The Grill Lab,India,Kochi,639,4.2,"Cafe, Continental, Pizza, Burger, Fast Food"
+171,901665.0,Double Roti,India,Kochi,344,4.2,"Cafe, American, Burger, Fast Food"
+172,95488.0,Cafe d' arabia,India,Kochi,541,4.1,"Arabian, Lebanese"
+173,18153238.0,Hotel Harsh Dhaba,India,Kochi,622,4.1,"North Indian, South Indian, Fast Food"
+174,900300.0,Real Arabia,India,Kochi,380,4.0,"Arabian, Chinese, North Indian"
+175,901830.0,Mocha Art Cafe,India,Kochi,602,4.7,"Cafe, Continental, European, Italian, Seafood"
+176,900561.0,Tonico Cafe,India,Kochi,935,4.3,Cafe
+177,900551.0,Aavi,India,Kochi,213,3.8,Kerala
+178,18153935.0,Galito's,India,Kochi,470,4.2,"African, Burger, Desserts, Beverages, Fast Food, Salad"
+179,95333.0,Chiyang,India,Kochi,622,4.0,"Chinese, Continental"
+180,100242.0,Shree Agarwal Caterers,India,Jaipur,1402,4.3,"Bakery, Cafe, Sandwich, Fast Food, Mithai, Mishti, Desserts"
+181,18748726.0,The Night Jar,India,Jaipur,851,4.7,"North Indian, Continental, Chinese"
+182,18641794.0,Shankar Samosa,India,Jaipur,727,4.3,Street Food
+183,18903417.0,Chool,India,Jaipur,383,4.9,"Cafe, North Indian, South Indian, Fast Food"
+184,18625823.0,Gulabi Nagari,India,Jaipur,1227,4.3,"North Indian, Chinese"
+185,100756.0,Agarwal Sweets & Caterers,India,Jaipur,1216,4.2,"Mithai, North Indian, South Indian, Street Food, Chinese"
+186,102439.0,Muhammadi Palace,India,Jaipur,2457,3.9,"North Indian, Mughlai"
+187,100149.0,Kanha,India,Jaipur,1475,4.0,"North Indian, Street Food"
+188,102695.0,Thali and More,India,Jaipur,1820,4.3,"North Indian, South Indian, Italian, Chinese"
+189,100910.0,Rawat Mishthan Bhandar,India,Jaipur,2184,4.1,"Mithai, North Indian, South Indian, Chinese"
+190,18733012.0,Fat Lulu's,India,Jaipur,669,4.3,"Continental, Pizza, Burger, American"
+191,100611.0,M.M. Khan Hotel,India,Jaipur,1774,4.0,North Indian
+192,18868487.0,Vegetrainian,India,Jaipur,366,4.5,"North Indian, Italian, Chinese"
+193,18602340.0,Stepout Cafe,India,Jaipur,810,4.3,"Cafe, Italian, Lebanese, Mexican"
+194,101736.0,Kanha,India,Jaipur,1266,4.1,"North Indian, Street Food"
+195,100148.0,Kanha,India,Jaipur,1449,4.0,"North Indian, Street Food"
+196,101212.0,Tapri Central,India,Jaipur,2862,4.9,"Cafe, Fast Food"
+197,101777.0,Kanha,India,Jaipur,748,4.1,"North Indian, Street Food"
+198,18467090.0,Manuhaar,India,Jaipur,837,4.0,"Mithai, Bakery, Fast Food"
+199,18578663.0,Masala Ministry,India,Jaipur,945,4.5,"North Indian, Chinese, Fast Food"
+200,18766005.0,The Esplendido Cafe,India,Ahmedabad,1001,4.4,"Cafe, American, Italian, Chinese, Beverages"
+201,18882467.0,Makeba - The Lounge Cafe,India,Ahmedabad,368,4.2,"Cafe, Italian, Mexican, Healthy Food"
+202,110208.0,Honest,India,Ahmedabad,823,3.9,"North Indian, South Indian, Fast Food, Chinese"
+203,18385186.0,The Cafe Baraco,India,Ahmedabad,1528,4.3,"Cafe, Italian"
+204,18396250.0,Huber & Holly,India,Ahmedabad,1413,4.8,"Cafe, Desserts"
+205,18658177.0,Millhouse,India,Ahmedabad,773,4.2,"Continental, Italian"
+206,18672107.0,Eleven 11 Restro Cafe,India,Ahmedabad,1079,4.3,"Cafe, Italian, North Indian"
+207,18902811.0,Legends Of Punjab - By Pepperazi,India,Ahmedabad,218,4.1,"North Indian, Italian, BBQ, Mexican, Thai"
+208,112466.0,Jay Nilkanth Food,India,Ahmedabad,1346,3.1,"North Indian, Chinese"
+209,18663856.0,The Red Bistro,India,Ahmedabad,491,4.6,"Mexican, Italian, North Indian"
+210,18766904.0,The Secret Kitchen,India,Ahmedabad,441,4.1,North Indian
+211,18627705.0,I Love Sandwich House,India,Ahmedabad,1106,4.2,"Cafe, Sandwich"
+212,18819827.0,Kadak Bhagat,India,Ahmedabad,444,4.6,"North Indian, Chinese, Fast Food"
+213,18874418.0,Upri Manzil,India,Ahmedabad,297,4.1,"North Indian, Italian, Continental"
+214,18578691.0,Bogarosa,India,Ahmedabad,1156,4.1,"Continental, North Indian"
+215,110026.0,Barbeque Nation,India,Ahmedabad,2236,4.5,"Mughlai, North Indian, BBQ"
+216,18545544.0,Mocha,India,Ahmedabad,970,4.4,"Cafe, Italian"
+217,113234.0,Shree Annpurna,India,Ahmedabad,1795,4.1,"North Indian, Chinese"
+218,111826.0,Yanki Sizzlers,India,Ahmedabad,3437,4.9,"Continental, Italian, Chinese"
+219,18480250.0,Cafe De Italiano,India,Ahmedabad,770,4.3,Cafe
+220,120687.0,Subway,India,Mohali,1438,4.3,"Healthy Food, Sandwich, Salad"
+221,18848676.0,Beach N Brew,India,Chandigarh,420,4.5,"North Indian, Continental, Chinese"
+222,121896.0,Bhena Da Dhaba,India,Mohali,1668,3.9,North Indian
+223,121335.0,Pirates of Grill,India,Chandigarh,2033,4.4,North Indian
+224,121316.0,Nando's,India,Chandigarh,902,4.9,"Portuguese, Wraps, Burger, Salad"
+225,124170.0,Sector 7 Social,India,Chandigarh,2557,4.7,"Continental, American, Asian, North Indian, Momos, Beverages"
+226,18634639.0,Pradhan Dhaba,India,Chandigarh,925,4.0,"North Indian, Chinese, Fast Food"
+227,123013.0,Amrit Sweets,India,Mohali,1057,4.0,"Mithai, North Indian, South Indian, Street Food"
+228,120767.0,New Panna Sweets,India,Chandigarh,1778,3.9,"Street Food, Chinese, Fast Food, Mithai, North Indian, Burger, Desserts, Pizza"
+229,18694731.0,DND - Daily Nutritional Diet,India,Mohali,586,4.5,"Healthy Food, Salad"
+230,122418.0,Burger King,India,Chandigarh,1174,4.1,"Burger, Fast Food"
+231,120999.0,Jalandhar Sweets,India,Chandigarh,1319,4.0,"South Indian, North Indian, Chinese, Mithai"
+232,121425.0,Super Donuts,India,Chandigarh,1335,4.4,"Desserts, Burger, Fast Food"
+233,124158.0,The Hedgehog Café,India,Chandigarh,1031,4.5,"Cafe, Italian, American, Continental"
+234,123043.0,Khalsa Dhaba,India,Mohali,1094,3.9,"North Indian, South Indian, Chinese"
+235,18609823.0,Falcon Cafe Lounge,India,Panchkula,1589,4.6,Cafe
+236,122653.0,Food@U,India,Chandigarh,2129,4.2,"North Indian, Chinese, South Indian, Rolls"
+237,120554.0,Books N Brew,India,Chandigarh,1108,3.7,"Cafe, Fast Food, Italian, Chinese"
+238,122875.0,Tossin Pizza,India,Chandigarh,846,4.2,"Pizza, Italian"
+239,123191.0,CAFÈ JC's,India,Chandigarh,1277,4.4,"Continental, Cafe, North Indian, Chinese, American"
+240,130309.0,Purple Martini,India,Goa,1507,4.8,"Continental, Seafood, Italian, Mediterranean, North Indian"
+241,130409.0,Baba Au Rhum,India,Goa,1282,4.6,"Italian, French, Cafe"
+242,16512333.0,Britto's Bar & Restaurant,India,Goa,3900,4.3,"Chinese, Continental, Goan, North Indian, Seafood"
+243,16524239.0,Bay 15,India,Goa,369,4.4,"Thai, Chinese, Indian, Goan, North Indian, Italian, Mediterranean, Seafood"
+244,130535.0,The Fisherman's Wharf,India,Goa,1427,4.7,"Seafood, Goan, North Indian, Continental, Asian"
+245,18685303.0,The Fisherman's Wharf,India,Goa,882,4.6,"Seafood, Goan, North Indian, Continental, Asian"
+246,130427.0,Artjuna,India,Goa,579,4.4,"Healthy Food, Mediterranean, Cafe, Israeli, Lebanese"
+247,18601542.0,The Lazy Goose,India,Goa,783,4.6,"Seafood, Goan, Continental"
+248,130888.0,The Black Sheep Bistro,India,Goa,1850,4.7,"Seafood, Continental, European, German"
+249,18555916.0,Tio Tilly's Bar & Kitchen,India,Goa,560,4.4,"Continental, Finger Food, Burger, Pizza"
+250,16519168.0,Martin's Corner,India,Goa,2226,4.6,"Goan, Seafood, Chinese, North Indian"
+251,16512336.0,Fat Fish,India,Goa,1957,4.2,"North Indian, Continental, Goan"
+252,130230.0,Curlies,India,Goa,2816,3.8,"Continental, North Indian, Italian, Seafood, Goan"
+253,16525595.0,Cafe Cotinga,India,Goa,513,4.4,"Continental, North Indian, Bakery"
+254,18232814.0,Kokni Kanteen,India,Goa,839,4.6,Goan
+255,16541849.0,The Fisherman's Wharf,India,Goa,1197,4.5,"Seafood, Goan, North Indian, Continental, Asian"
+256,130567.0,Souza Lobo,India,Goa,1548,4.3,"Chinese, Continental, Goan, Finger Food, North Indian"
+257,130430.0,Co Co Mo,India,Goa,232,4.4,"North Indian, Chinese, Goan, Russian, Italian"
+258,16519268.0,La Plage,India,Goa,545,4.4,"Seafood, French"
+259,18558647.0,Navtara Veg Restaurant,India,Goa,583,4.5,"South Indian, North Indian, Chinese, Mughlai"
+260,1400382.0,Shree Gurukripa,India,Indore,1750,4.2,North Indian
+261,1400038.0,Apna Sweets,India,Indore,1331,4.2,"Mithai, North Indian, South Indian, Beverages"
+262,18715348.0,The Monroe,India,Indore,647,4.4,"Italian, Chinese, North Indian"
+263,1402185.0,Shree Gurukripa,India,Indore,1270,4.1,North Indian
+264,1400208.0,Apna Sweets,India,Indore,1387,4.1,"Mithai, North Indian, South Indian, Beverages"
+265,1401685.0,Dutt Guru Kripa,India,Indore,1138,4.0,"North Indian, Fast Food"
+266,18675443.0,Sagar Gaire,India,Indore,2857,4.1,"South Indian, North Indian, Fast Food"
+267,1400574.0,Hotel Rajhans,India,Indore,1788,3.8,North Indian
+268,1400056.0,Nafees Restaurant,India,Indore,2819,4.2,"North Indian, Mughlai"
+269,18713037.0,Tic Tac Toe,India,Indore,354,4.5,"North Indian, Chinese, Fast Food"
+270,1401724.0,Hotel Guru Kripa Avenue,India,Indore,1147,4.0,North Indian
+271,18254231.0,Oye24,India,Indore,1370,4.0,"North Indian, Chinese"
+272,1400287.0,Madhuram Sweets,India,Indore,584,4.1,"South Indian, Fast Food, Mithai"
+273,1401774.0,Banana Leaf,India,Indore,751,4.3,"South Indian, North Indian"
+274,18684400.0,Little Monk,India,Indore,381,4.2,"North Indian, Italian, Chinese, Mughlai"
+275,1400310.0,Vijay Chaat House,India,Indore,561,4.5,"Mithai, Street Food"
+276,1400311.0,Apna Sweets,India,Indore,1634,3.9,"Mithai, North Indian, South Indian, Beverages"
+277,18395137.0,Just My Bakes,India,Indore,716,4.1,"Cafe, North Indian"
+278,1402252.0,Mustang - Hotel Somdeep Palace,India,Indore,1109,4.8,"North Indian, Chinese"
+279,18601095.0,Indore Kitchen - Indore Marriott Hotel,India,Indore,534,4.4,"North Indian, Italian, Asian, Fast Food"
+280,18746380.0,Domino's,India,Gangtok,53,3.2,"Pizza, Fast Food"
+281,18746904.0,Baker's Cafe,India,Gangtok,53,3.4,"Cafe, Bakery"
+282,16500301.0,The Dragon Wok,India,Gangtok,36,3.3,Chinese
+283,18746039.0,Osm Restaurant,India,Gangtok,65,3.5,"North Indian, Continental, Chinese"
+284,18746176.0,Taste of Tibet,India,Gangtok,39,3.4,"Tibetan, Chinese"
+285,18746050.0,Osm Lounge,India,Gangtok,16,3.3,Finger Food
+286,16500332.0,Nimtho,India,Gangtok,31,3.6,"Tibetan, Nepalese"
+287,18746004.0,Bonfire ,India,Gangtok,24,3.4,"Tibetan, North Indian, Fast Food, Chinese"
+288,16500309.0,Roll House,India,Gangtok,29,3.3,Fast Food
+289,16500300.0,The Local Cafe,India,Gangtok,34,3.5,"Tibetan, Italian"
+290,18746148.0,Chopstick,India,Gangtok,22,3.5,Chinese
+291,18746007.0,Parivar,India,Gangtok,18,3.2,"South Indian, Chinese, North Indian"
+292,18922563.0,Domino's Pizza,India,Gangtok,12,3.2,"Pizza, Fast Food"
+293,18746062.0,Cafe Live & Loud ,India,Gangtok,22,3.3,"North Indian, Continental, Chinese"
+294,18746689.0,Baker's Cafe,India,Gangtok,15,3.4,"Cafe, Bakery"
+295,16500321.0,Momo King ,India,Gangtok,15,3.3,"Nepalese, Chinese"
+296,16500330.0,Khan Uncle's Biryani House,India,Gangtok,24,3.4,"Fast Food, Biryani, Chinese"
+297,16500333.0,Nimtho,India,Gangtok,14,3.2,"Tibetan, Nepalese"
+298,16500304.0,Thakali,India,Gangtok,10,3.2,Nepalese
+299,18983524.0,Mehfill- Resto Bar,India,Gangtok,3,0,North Indian
+300,18629821.0,Sula Vineyards,India,Nashik,228,4.7,"Cafe, Pizza, North Indian"
+301,1600099.0,Kokni Darbar,India,Nashik,938,4.2,"Fast Food, Chinese, Mughlai"
+302,1600067.0,Al Arabian Express,India,Nashik,689,4.4,Mughlai
+303,1600136.0,Dairy Don,India,Nashik,342,4.5,Ice Cream
+304,18585945.0,The Foundry- Industrial Bar & Sport,India,Nashik,212,4.6,"Continental, Italian, American"
+305,18839989.0,Samarth Juice Center,India,Nashik,306,4.3,"Beverages, Juices"
+306,18943921.0,Burger Point,India,Nashik,144,4.3,"Burger, Fast Food"
+307,1600500.0,The Sidewalk,India,Nashik,214,4.9,"Continental, Indian, Chinese"
+308,18608708.0,Burger King,India,Nashik,418,4.3,"Burger, Fast Food"
+309,1600258.0,Barbeque Nation,India,Nashik,772,4.8,"North Indian, European, Mediterranean, Asian"
+310,18632170.0,Panorama,India,Nashik,179,4.6,"North Indian, Chinese"
+311,1600169.0,Veg Aroma,India,Nashik,289,4.1,North Indian
+312,1600301.0,Cellar Door @ York,India,Nashik,102,4.4,"North Indian, Maharashtrian, Chinese"
+313,18658877.0,Rock n' Roll,India,Nashik,349,3.9,"Rolls, Fast Food, Chinese"
+314,1600227.0,Divtya Budhlya Wada Restaurant,India,Nashik,312,4.4,Maharashtrian
+315,18573795.0,The FRIENDS Bistro,India,Nashik,223,4.5,Cafe
+316,1600119.0,Domino's Pizza,India,Nashik,274,3.7,"Pizza, Fast Food"
+317,1600109.0,Eastern Spice,India,Nashik,216,4.0,North Indian
+318,18962186.0,Hotel Mughal Darbar,India,Nashik,130,4.2,"Mughlai, North Indian, Chinese"
+319,1600029.0,Barbeque Ville,India,Nashik,328,4.2,North Indian
+320,18698487.0,Angaara ,India,Ooty,144,3.6,"Arabian, Chinese, Continental, South Indian"
+321,18698864.0,A2B- Adyar Ananda Bhavan,India,Ooty,139,3.4,"South Indian, North Indian"
+322,18698898.0,Domino's Pizza,India,Ooty,75,3.3,"Pizza, Fast Food"
+323,18698690.0,Nahar Sidewalk Cafe,India,Ooty,50,3.3,"Cafe, Burger, Pizza"
+324,18698726.0,Hyderabad Biriyani House,India,Ooty,39,3.3,"Andhra, Biryani"
+325,18699624.0,Shinkows Chinese Restaurant ,India,Ooty,62,3.2,Chinese
+326,18698924.0,Hyderabad Biryani House,India,Ooty,61,3.2,"Andhra, Biryani"
+327,18698964.0,Thalassery Restaurant,India,Ooty,42,3.3,South Indian
+328,18698943.0,Willy's Coffee Pub,India,Ooty,39,3.3,Cafe
+329,18698658.0,Place To Bee,India,Ooty,55,3.7,Italian
+330,18698644.0,Cocoapods,India,Ooty,24,3.3,Cafe
+331,18699681.0,Darjeeling Spicy Momo,India,Ooty,20,3.4,"Chinese, Tibetan, Momos"
+332,18698833.0,Pankaj Bhojanalaya,India,Ooty,23,3.3,North Indian
+333,18699247.0,Dining Room,India,Ooty,8,3.4,"Armenian, Chinese, European, Italian, North Indian, South Indian"
+334,18698916.0,New Ooty Bakery ,India,Ooty,21,3.3,"Mithai, Bakery, Chinese, Fast Food"
+335,18698797.0,Hotel Junior Kuppanna,India,Ooty,20,3.3,"Chettinad, South Indian"
+336,18698832.0,Quality Restaurant,India,Ooty,14,3.2,"Chinese, South Indian, North Indian"
+337,18700259.0,Thendral Restaurant,India,Ooty,7,3.3,South Indian
+338,18698688.0,Cliff Top,India,Ooty,10,3.3,"North Indian, South Indian, European"
+339,18698999.0,Ooty Coffee House ,India,Ooty,14,3.3,South Indian
+340,18848790.0,The Brew Estate,India,Shimla,148,4.0,"North Indian, Continental"
+341,18703923.0,Cafe Simla Times,India,Shimla,185,4.1,"Cafe, North Indian, Continental, Beverages, Chinese"
+342,18703946.0,Cafe Sol,India,Shimla,71,3.6,Cafe
+343,18704132.0,Indian Coffee House,India,Shimla,66,3.7,"Fast Food, Beverages"
+344,18704176.0,Hide Out Cafe,India,Shimla,71,3.6,Cafe
+345,18704216.0,45 The Central,India,Shimla,46,3.6,"North Indian, European, Asian"
+346,18704153.0,Domino's,India,Shimla,119,3.5,Pizza
+347,18704300.0,Sher-e-Punjab,India,Shimla,54,3.3,North Indian
+348,18703974.0,Cafe Under Tree,India,Shimla,44,3.6,Cafe
+349,18704318.0,Sita Ram & Son ,India,Shimla,56,3.5,Street Food
+350,18704259.0,Honey Hut,India,Shimla,49,3.6,Cafe
+351,18703932.0,Eighteen 71,India,Shimla,46,3.6,"Continental, North Indian, Chinese, Bakery, Beverages"
+352,18703939.0,Embassy The Restaurant,India,Shimla,46,3.0,Cafe
+353,18703966.0,HPTDC Goofa Ashiana Bar and Restaurant,India,Shimla,38,3.5,Continental
+354,18704355.0,Gupta Ji Bhojnalya,India,Shimla,47,3.3,"North Indian, Street Food"
+355,18703964.0,Nalini,India,Shimla,22,3.2,"North Indian, Chinese, South Indian"
+356,18704552.0,Diamond,India,Shimla,30,3.2,"Mithai, Fast Food"
+357,18704352.0,China Town Restaurant,India,Shimla,16,3.5,Chinese
+358,18704339.0,Hotel Combermere,India,Shimla,28,3.6,Cafe
+359,18704457.0,Singh's Tandoor,India,Shimla,48,3.3,"North Indian, Fast Food"
+360,18784840.0,The Table By Basant,India,Ludhiana,884,4.4,"North Indian, Pizza, Fast Food, Burger, Sandwich, Rolls"
+361,15401.0,Natural Soups & Shakes,India,Ludhiana,895,4.5,"Fast Food, Beverages, Street Food"
+362,15221.0,Basant,India,Ludhiana,1315,4.4,"North Indian, Chinese, South Indian, Fast Food"
+363,18400368.0,Pirates Of Grill,India,Ludhiana,982,4.9,"North Indian, Mughlai"
+364,15008.0,Hot Breads,India,Ludhiana,1086,4.4,"Continental, Chinese, Italian, Bakery"
+365,18680874.0,Natural 2,India,Ludhiana,525,4.3,"Chinese, Burger, Sandwich, Rolls, Momos"
+366,15047.0,Rishi Vegetarian Dhaba NK,India,Ludhiana,2158,4.2,North Indian
+367,18444271.0,Hawai Adda,India,Ludhiana,745,4.5,"Chinese, Continental, Indian, North Indian"
+368,15556.0,New Delhi Chhole Bhature,India,Ludhiana,978,4.0,"North Indian, Street Food"
+369,18728655.0,Uncle Jack's,India,Ludhiana,703,4.8,"American, Desserts, Beverages"
+370,15239.0,Basant Restaurant,India,Ludhiana,990,4.1,"North Indian, Chinese, Fast Food"
+371,15101.0,Bansi Vaishno Dhaba,India,Ludhiana,1813,4.0,North Indian
+372,18586834.0,Burger King,India,Ludhiana,1283,4.0,"Burger, Fast Food"
+373,15295.0,Raja Dhaba,India,Ludhiana,1166,4.1,"North Indian, Street Food, Chinese, Burger, Pizza, Biryani, South Indian"
+374,18282260.0,KFC,India,Ludhiana,1170,4.1,"Burger, Fast Food"
+375,15077.0,Meshi Vaishnu Dhaba,India,Ludhiana,900,4.0,North Indian
+376,18729016.0,K Chawla Ice Cream & Sweets,India,Ludhiana,385,4.4,"Mithai, Ice Cream, Chinese, Burger, Sandwich, Pizza, Rolls, Momos"
+377,15488.0,Shahi Khansama,India,Ludhiana,1298,4.2,"North Indian, Chinese, Fast Food, Rolls"
+378,15127.0,Vipan Vaishno Dhaba,India,Ludhiana,636,4.1,North Indian
+379,18583331.0,Gopal Sweets,India,Ludhiana,485,4.3,"Mithai, Fast Food"
+380,2100712.0,Mocha,India,Guwahati,1069,4.8,"Cafe, Italian"
+381,2101445.0,The Steaming Mug ,India,Guwahati,542,4.2,Cafe
+382,2100702.0,Barbeque Nation,India,Guwahati,1795,4.9,"North Indian, Mediterranean"
+383,2100707.0,KFC,India,Guwahati,459,4.1,"Burger, Fast Food"
+384,2100719.0,The Corner Cafe,India,Guwahati,682,4.1,"Cafe, Continental, Momos"
+385,18633388.0,Kalita Cafe,India,Guwahati,294,4.4,"Rolls, Bakery, European"
+386,2100784.0,11th Avenue Cafe Bistro,India,Guwahati,1049,4.2,"Cafe, American, Italian, Continental"
+387,2100118.0,The Dhaba,India,Guwahati,645,4.1,"North Indian, Biryani"
+388,2100478.0,Terra Mayaa Restaurant and Lounge,India,Guwahati,808,4.1,"Continental, Italian, Indian, Asian"
+389,2100821.0,Raja Mircha,India,Guwahati,576,4.7,"Assamese, Naga"
+390,2100832.0,Mast Biryani,India,Guwahati,880,4.5,"North Indian, Biryani"
+391,18710093.0,Fat Belly,India,Guwahati,300,4.3,"Chinese, Thai, Momos"
+392,18801521.0,Cafe Gram,India,Guwahati,150,4.0,"Chinese, Biryani"
+393,2100644.0,KFC,India,Guwahati,633,3.8,"Burger, Fast Food"
+394,2100495.0,Grill Republica,India,Guwahati,503,4.3,"Rolls, Momos, Burger"
+395,2100913.0,Kalita Spectrum,India,Guwahati,398,4.7,"Chinese, Biryani, Desserts"
+396,2100904.0,Mughal Garden,India,Guwahati,488,4.4,"Mughlai, North Indian"
+397,18702475.0,Nanz Cafe,India,Guwahati,247,4.5,"Cafe, Momos"
+398,18381932.0,The Zouq : Resto-Cafe,India,Guwahati,594,3.8,"Chinese, Cafe, Italian, North Indian"
+399,18480196.0,Fat Belly,India,Guwahati,781,4.6,"Asian, Chinese, Tibetan, Momos"
+400,2200000.0,Kesar Da Dhabha,India,Amritsar,2569,4.6,North Indian
+401,2200044.0,Bharawan Da Dhaba,India,Amritsar,989,4.3,"North Indian, Fast Food"
+402,2200132.0,Bade Bhai ka Brothers Dhaba,India,Amritsar,1005,4.4,North Indian
+403,2200105.0,R K Food Plaza,India,Amritsar,504,4.2,"North Indian, Chinese, Fast Food"
+404,2200055.0,Beera Chicken House,India,Amritsar,876,4.3,North Indian
+405,2200045.0,The Kulcha Land,India,Amritsar,812,4.5,"North Indian, Street Food"
+406,2200011.0,Makhan Fish and Chicken Corner,India,Amritsar,867,4.0,"North Indian, Chinese"
+407,2200365.0,Cafe Connect,India,Amritsar,395,4.1,Fast Food
+408,2200864.0,Burger King,India,Amritsar,568,4.1,Burger
+409,2200386.0,Kale Da Dhaba,India,Amritsar,493,4.2,North Indian
+410,2200236.0,Brothers' Amritsari Dhaba,India,Amritsar,343,4.3,North Indian
+411,2200245.0,Novelty Sweets,India,Amritsar,345,4.2,Mithai
+412,2200358.0,Bon Gateau,India,Amritsar,413,4.3,"Cafe, Bakery, Fast Food"
+413,2200314.0,Domino's Pizza,India,Amritsar,663,3.8,"Pizza, Fast Food"
+414,2200534.0,Sip n Breww,India,Amritsar,399,3.9,Cafe
+415,2200357.0,Sanjha Chulha,India,Amritsar,465,4.2,North Indian
+416,2200283.0,Sakhis Watz Kukin,India,Amritsar,385,4.4,"Chinese, Continental, North Indian, Italian, Mughlai"
+417,2200153.0,Kanha Sweets,India,Amritsar,451,4.7,Fast Food
+418,2200923.0,Hungry Pizza,India,Amritsar,294,4.0,"Fast Food, Italian, Pizza"
+419,2200286.0,Cafe Chokolade,India,Amritsar,301,4.0,"Salad, Cafe, Healthy Food, Fast Food"
+420,2300179.0,Talk Of The Town,India,Kanpur,604,4.4,Chinese
+421,2300175.0,Mithas,India,Kanpur,457,4.4,"Mithai, Fast Food, Street Food, South Indian"
+422,2300842.0,Hot Pizza Ace,India,Kanpur,472,4.0,"Pizza, Fast Food"
+423,18209832.0,Zyka Restaurant,India,Kanpur,596,4.1,"North Indian, Biryani, Desserts, Fast Food, Pizza"
+424,2300299.0,Domino's Pizza,India,Kanpur,1000,3.5,"Pizza, Fast Food"
+425,18697142.0,Facebook Point,India,Kanpur,383,4.0,"Burger, Chinese, North Indian, Rolls"
+426,2300884.0,Sagar Ratna,India,Kanpur,447,4.3,"South Indian, North Indian, Chinese"
+427,18811222.0,Chauuan Pandit Paties,India,Kanpur,419,4.5,Fast Food
+428,2300981.0,Bazooka,India,Kanpur,874,3.9,"Cafe, North Indian, Chinese"
+429,2300729.0,Juicebox,India,Kanpur,338,4.3,"Beverages, Fast Food"
+430,2300984.0,Foodoo Pizza,India,Kanpur,399,3.8,"Fast Food, Pizza, Chinese"
+431,2300092.0,Pandit's,India,Kanpur,321,4.2,"North Indian, Mithai"
+432,2300492.0,Baba Food Court,India,Kanpur,352,4.1,"Mughlai, Hyderabadi"
+433,2301845.0,Mi Casa,India,Kanpur,141,4.4,"Continental, Italian, Fast Food, Burger, American, Chinese"
+434,2300502.0,Silver Spoons,India,Kanpur,422,4.2,"Bakery, Fast Food, Chinese, Continental, Italian, Momos, Pizza"
+435,2300051.0,Domino's Pizza,India,Kanpur,1090,3.9,"Pizza, Fast Food"
+436,2300050.0,Baba Biryani,India,Kanpur,422,4.1,"Mughlai, Hyderabadi"
+437,2300549.0,Mithas,India,Kanpur,337,4.3,"Mithai, Desserts, Fast Food, Street Food"
+438,2300104.0,Spicy Foods,India,Kanpur,440,4.0,"North Indian, Fast Food"
+439,2300035.0,KFC,India,Kanpur,611,4.1,"Burger, Fast Food"
+440,2400349.0,Pizza Hut,India,Allahabad,565,4.0,"Italian, Pizza"
+441,2400358.0,Domino's Pizza,India,Allahabad,520,3.7,"Pizza, Fast Food"
+442,2400193.0,Mr. Dewsis,India,Allahabad,485,4.2,"North Indian, Chinese"
+443,2400565.0,Old School Cafe,India,Allahabad,360,4.4,"Cafe, North Indian, Continental, Chinese, Indian, Thai, Burger"
+444,2400018.0,El Chico Restaurant,India,Allahabad,506,4.3,"Continental, North Indian, Chinese"
+445,2400394.0,Well Bean Cafe,India,Allahabad,284,4.4,Cafe
+446,2400269.0,Hot n Cool,India,Allahabad,236,4.3,"Desserts, Fast Food, Ice Cream"
+447,2400119.0,KFC,India,Allahabad,431,4.2,"Burger, Fast Food"
+448,18799013.0,Nainital Momos,India,Allahabad,123,4.1,"Momos, Beverages"
+449,2400009.0,Sagar Ratna,India,Allahabad,621,4.4,"South Indian, North Indian, Chinese, Continental"
+450,2400014.0,McDonald's,India,Allahabad,526,4.3,"Burger, Fast Food"
+451,2400356.0,Domino's Pizza,India,Allahabad,515,3.9,"Pizza, Fast Food"
+452,2400017.0,Tandoor Restaurant,India,Allahabad,343,2.8,"North Indian, Chinese"
+453,2400019.0,Bikanerwala,India,Allahabad,224,4.2,"North Indian, Street Food, Fast Food"
+454,18889008.0,EDEN by Connoisseur,India,Allahabad,95,4.5,"North Indian, Chinese, Continental"
+455,2400403.0,Pind Balluchi,India,Allahabad,305,4.3,"North Indian, Mughlai"
+456,2400020.0,Aryan Family's Delight,India,Allahabad,298,4.3,"North Indian, South Indian, Fast Food"
+457,2400533.0,SCORE - The Games Cafe,India,Allahabad,332,4.5,"Cafe, Desserts, Beverages"
+458,18901221.0,7th Heaven,India,Allahabad,78,4.0,"Bakery, Italian, Continental, Desserts"
+459,2400390.0,Haldiram Bhujiawala,India,Allahabad,313,4.1,"North Indian, Fast Food, Street Food, South Indian, Chinese"
+460,2500904.0,Kef Lounge,India,Aurangabad,256,4.6,"North Indian, Chinese, Thai"
+461,2500672.0,SNT Tahari House ,India,Aurangabad,379,4.4,Maharashtrian
+462,2500034.0,Green Leaf,India,Aurangabad,798,4.8,"Chinese, North Indian"
+463,2500969.0,Mustafa's Dum Biryani,India,Aurangabad,787,3.7,Biryani
+464,2500346.0,Yalla Yalla,India,Aurangabad,576,4.3,"North Indian, Hyderabadi, Biryani"
+465,2500135.0,Domino's Pizza,India,Aurangabad,511,2.6,"Pizza, Fast Food"
+466,2500211.0,Saurabh Restaurant,India,Aurangabad,356,4.7,"North Indian, Mughlai, Biryani, South Indian, Chinese"
+467,2500123.0,Great Sagar Restaurant,India,Aurangabad,458,4.1,"North Indian, Mughlai, Kebab, Biryani"
+468,2500332.0,KFC,India,Aurangabad,436,4.3,"Burger, Fast Food"
+469,2500030.0,Bhoj Restaurant,India,Aurangabad,527,4.6,North Indian
+470,2500654.0,Sagar Restaurant ,India,Aurangabad,278,4.0,North Indian
+471,2500055.0,Smile Veg Restaurant,India,Aurangabad,387,4.3,"North Indian, South Indian, Fast Food, Chinese"
+472,2500164.0,Koyla Dum Biryanis & Kebabs,India,Aurangabad,487,2.7,Biryani
+473,2500353.0,Pizza Hut,India,Aurangabad,434,4.0,"Pizza, Fast Food"
+474,2500385.0,Gayatri Mewad,India,Aurangabad,329,4.5,Maharashtrian
+475,2500146.0,Sai Prasad,India,Aurangabad,350,4.5,"North Indian, Chinese"
+476,2500241.0,Cone-N-Cakes,India,Aurangabad,263,4.4,"Desserts, Fast Food"
+477,2500052.0,Ashoka's Veg Restaurant,India,Aurangabad,280,4.0,"South Indian, Chinese, North Indian"
+478,18796129.0,Shahi Mughal Darbar,India,Aurangabad,225,4.5,"North Indian, Mughlai, Chinese"
+479,2500134.0,Domino's Pizza,India,Aurangabad,386,3.1,"Pizza, Fast Food"
+480,2600334.0,Sagar Gaire Fast Food,India,Bhopal,1393,4.5,"North Indian, South Indian, Chinese, Fast Food, Beverages"
+481,2600081.0,Zam Zam Fast Food,India,Bhopal,1551,4.3,North Indian
+482,2600369.0,Sagar Gaire Fast Food,India,Bhopal,999,4.5,"Fast Food, Chinese, Beverages"
+483,2600499.0,Zam Zam Fast Food,India,Bhopal,863,4.1,"North Indian, Mughlai"
+484,2600003.0,Manohar Dairy And Restaurant,India,Bhopal,753,4.4,"Street Food, South Indian, Fast Food, Desserts, North Indian, Chinese, Bakery, Mithai"
+485,2600109.0,Sagar Gaire Fast Food,India,Bhopal,2470,4.6,"North Indian, South Indian, Chinese, Fast Food, Beverages"
+486,2600665.0,Vishnu Chinese Fast Food,India,Bhopal,797,4.3,"North Indian, South Indian, Chinese, Fast Food"
+487,2600321.0,Sagar Gaire Fast Food,India,Bhopal,755,4.2,"North Indian, South Indian, Chinese, Fast Food, Beverages"
+488,2600051.0,Al-Beik,India,Bhopal,1017,4.3,Fast Food
+489,18154918.0,Khan Sahab,India,Bhopal,737,4.2,Mughlai
+490,2601361.0,Sagar Gaire Fast Food,India,Bhopal,639,4.1,"South Indian, North Indian, Chinese, Fast Food, Beverages"
+491,2600320.0,Sagar Gaire Fast Food,India,Bhopal,1157,4.4,"North Indian, South Indian, Chinese, Fast Food, Beverages"
+492,18812768.0,Anni Bhai ki Biryani,India,Bhopal,276,4.5,Biryani
+493,2600047.0,Bapu Ki Kutia,India,Bhopal,519,3.9,"North Indian, Chinese, South Indian, Fast Food, Street Food"
+494,2601776.0,Khan Chacha,India,Bhopal,591,4.0,North Indian
+495,18772225.0,Sagar Gaire Fast Food,India,Bhopal,356,4.1,"Fast Food, Chinese, South Indian, Beverages"
+496,2601248.0,Sagar Gaire Fast Food,India,Bhopal,496,4.2,"South Indian, North Indian, Chinese, Fast Food, Beverages"
+497,2601595.0,Sagar Gaire Fast Food,India,Bhopal,386,4.1,"South Indian, North Indian, Chinese, Fast Food, Beverages"
+498,2600913.0,32 Degree North East,India,Bhopal,308,4.6,North Indian
+499,2600008.0,Bake N Shake,India,Bhopal,649,4.6,"Bakery, Chinese, Continental, Pizza, Italian, Sandwich, Beverages, Cafe"
+500,2700085.0,Kaveri - Lalpur,India,Ranchi,809,4.2,"North Indian, Chinese, South Indian, Biryani, Fast Food"
+501,2700048.0,Domino's Pizza,India,Ranchi,1053,4.1,"Pizza, Fast Food"
+502,2700059.0,Punjab Sweet House,India,Ranchi,915,4.5,"Mithai, Street Food, Desserts, South Indian, Beverages"
+503,18388053.0,The Best,India,Ranchi,398,4.3,"North Indian, Pizza, South Indian, Bakery, Fast Food, Sandwich, Burger"
+504,2700606.0,Second Wife Restaurant,India,Ranchi,381,4.2,"Chinese, Fast Food, Burger"
+505,2700423.0,Punjabi Kitchen,India,Ranchi,588,4.2,"North Indian, Biryani, Fast Food"
+506,2700336.0,The Mezbaan,India,Ranchi,616,4.0,"North Indian, Biryani, Chinese, Fast Food"
+507,2700986.0,Domino's Pizza,India,Ranchi,596,3.7,"Pizza, Fast Food"
+508,2700458.0,The Breaking Bread,India,Ranchi,395,4.6,"Cafe, Bakery, Italian"
+509,18159977.0,Hot Lips,India,Ranchi,327,4.2,"North Indian, Chinese, Biryani, Pizza, Street Food, Desserts, Beverages"
+510,2700558.0,KFC,India,Ranchi,336,4.2,"Burger, Fast Food"
+511,2700489.0,Jashn,India,Ranchi,370,4.3,"North Indian, Chinese, Fast Food"
+512,2700044.0,KFC,India,Ranchi,584,4.1,"Burger, Fast Food"
+513,2700024.0,New Kathi Kabab,India,Ranchi,607,4.1,"North Indian, Chinese, Biryani, Fast Food"
+514,2700047.0,Domino's Pizza,India,Ranchi,513,3.8,"Pizza, Fast Food"
+515,2700081.0,Seasons Restaurant,India,Ranchi,457,4.1,"North Indian, Chinese, Fast Food, Biryani, Street Food, Pizza, Desserts, Beverages"
+516,2700696.0,Kareem's,India,Ranchi,485,4.2,"Biryani, North Indian, Mughlai, Street Food, Desserts"
+517,2700779.0,Sardar Fast Food Plaza,India,Ranchi,384,3.9,"Chinese, North Indian, Biryani, Fast Food"
+518,2700049.0,Pizza Hut,India,Ranchi,373,4.2,Pizza
+519,2700011.0,Seventh Heaven,India,Ranchi,520,4.3,"South Indian, North Indian, Chinese, Pizza, Street Food, Biryani, Burger, Sandwich"
+520,2800993.0,Zeeshan Restaurant - Apna Hyderabadi Food,India,Vizag,1986,4.3,"Hyderabadi, Mughlai"
+521,2800294.0,Sri Sairam Parlour,India,Vizag,1377,4.6,"South Indian, North Indian"
+522,2801554.0,Helapuri Restaurant,India,Vizag,1283,4.1,"Biryani, Chinese, North Indian, South Indian"
+523,2800014.0,KFC,India,Vizag,1825,4.3,"Burger, Fast Food"
+524,2800096.0,Kamat Restaurant,India,Vizag,1468,4.4,"Andhra, North Indian, Chinese, Seafood, Biryani"
+525,2801173.0,Paradise,India,Vizag,1073,3.8,"Biryani, North Indian, Chinese"
+526,2801561.0,Indian Flavours Restaurant,India,Vizag,672,4.0,"North Indian, Chinese, Biryani, South Indian"
+527,18766029.0,Helapuri Restaurant,India,Vizag,553,3.8,"Biryani, Chinese, North Indian, South Indian"
+528,2801545.0,Helapuri Restaurant,India,Vizag,596,4.0,"Biryani, Chinese, North Indian"
+529,2801559.0,Hotel V Parlour,India,Vizag,593,4.2,"South Indian, North Indian, Chinese"
+530,2800083.0,My Restaurant,India,Vizag,825,4.2,"Andhra, North Indian, Chinese, Biryani"
+531,2801648.0,Helapuri Restaurant,India,Vizag,582,3.7,"Biryani, Chinese, North Indian, South Indian"
+532,2800901.0,Paradise,India,Vizag,1707,3.8,"Biryani, North Indian, Chinese"
+533,2801034.0,"Fresh Choice- Patisserie, Bakery & Café",India,Vizag,430,4.7,"Bakery, Cafe"
+534,2800790.0,Hotel Grand Alpha,India,Vizag,1010,2.9,"Biryani, North Indian, Chinese"
+535,2800868.0,Raju's Kitchen,India,Vizag,544,4.1,"Chinese, North Indian, Fast Food"
+536,2801236.0,KFC,India,Vizag,1035,4.0,"Burger, Fast Food"
+537,18809359.0,Helapuri Tiffins,India,Vizag,499,3.8,South Indian
+538,2800114.0,New Satyam Multicuisine Restaurant & Takeaway,India,Vizag,847,4.0,"North Indian, Chinese, Andhra"
+539,2800903.0,Mekong - Hotel GreenPark,India,Vizag,635,4.7,"Chinese, Thai, Burmese, Vietnamese, Tibetan, Japanese, Momos"
+540,18805782.0,Chili's Grill & Bar,India,Bhubaneshwar,301,4.9,"Tex-Mex, Fast Food"
+541,2902018.0,Biryani Bhubaneswar,India,Bhubaneshwar,1393,4.0,Biryani
+542,18991874.0,Breathe By Biswajit,India,Bhubaneshwar,90,3.8,"North Indian, Chinese, Seafood, Desserts, Beverages"
+543,2901195.0,BOCCA Cafe,India,Bhubaneshwar,733,4.5,Cafe
+544,2900234.0,TCD Restaurant & Banquet,India,Bhubaneshwar,872,4.1,"Fast Food, North Indian, Chinese"
+545,2900509.0,Chandini Food Magic,India,Bhubaneshwar,579,3.2,Fast Food
+546,18237402.0,Biggies Burger 'n' More,India,Bhubaneshwar,676,4.4,Fast Food
+547,18271459.0,JUGAAD JN.,India,Bhubaneshwar,1112,4.3,"North Indian, Rajasthani"
+548,2901460.0,Sher-e-Punjab,India,Bhubaneshwar,659,3.7,"North Indian, Chinese, Mughlai"
+549,18770281.0,Three Kings,India,Bhubaneshwar,333,4.5,"Arabian, Mughlai, Lebanese"
+550,2900667.0,Biryani247,India,Bhubaneshwar,1107,3.9,"Biryani, North Indian, Mughlai, Momos"
+551,2900453.0,KFC,India,Bhubaneshwar,669,4.2,"Burger, Fast Food"
+552,2900474.0,Narula's Restaurant,India,Bhubaneshwar,931,4.4,"North Indian, Mughlai"
+553,18848926.0,Moody Blues,India,Bhubaneshwar,324,4.5,"Chinese, Italian, Continental, Mexican, Arabian"
+554,18753913.0,Biriyani King,India,Bhubaneshwar,559,3.9,Biryani
+555,18285395.0,Biriyani Box,India,Bhubaneshwar,836,3.9,"Biryani, Hyderabadi, Rolls, Kebab"
+556,2900232.0,Domino's Pizza,India,Bhubaneshwar,831,4.1,"Pizza, Fast Food"
+557,2900222.0,KFC,India,Bhubaneshwar,957,4.0,"Burger, Fast Food"
+558,2900793.0,JUGAAD JN.,India,Bhubaneshwar,499,4.2,Fast Food
+559,2900658.0,Biggies Burger 'n' More,India,Bhubaneshwar,940,4.7,"Fast Food, Burger"
+560,3000152.0,Cock Ra Co,India,Coimbatore,489,4.2,"North Indian, Chinese, South Indian"
+561,3000214.0,Shahi Grill,India,Coimbatore,654,4.1,"Chettinad, North Indian, Chinese"
+562,3001572.0,The French Door Cafe & Restaurant,India,Coimbatore,429,4.7,"Cafe, Continental, French, North Indian, European"
+563,3002026.0,The Chocolate Room,India,Coimbatore,356,4.9,"Cafe, Desserts"
+564,3001032.0,Burger Ka Baap,India,Coimbatore,816,4.9,"Fast Food, Burger"
+565,3002715.0,Yugo,India,Coimbatore,450,4.3,Cafe
+566,3000107.0,Haribhavanam,India,Coimbatore,685,4.3,"South Indian, Chettinad, North Indian"
+567,18242351.0,Eleven 2 Eleven,India,Coimbatore,277,4.1,"Chinese, North Indian, Seafood, South Indian"
+568,3002291.0,Dindigul Venu Biryani,India,Coimbatore,349,4.0,Biryani
+569,3001315.0,Hotel Delhi Dharbarr,India,Coimbatore,444,4.0,"South Indian, Chinese, Biryani"
+570,3000048.0,Barbeque Nation,India,Coimbatore,881,4.8,"North Indian, European, Mediterranean"
+571,3000280.0,Denmarrk Drive-Inn Restaurant,India,Coimbatore,320,4.1,"North Indian, Chinese"
+572,3000572.0,Sree Annapoorna Sree Gowrishankar,India,Coimbatore,229,4.4,"South Indian, Chinese, North Indian"
+573,3000014.0,Sree Annapoorna Sree Gowrishankar,India,Coimbatore,427,4.6,"South Indian, North Indian, Chinese"
+574,18671982.0,Zucca Pizzeria,India,Coimbatore,374,4.4,"Pizza, Fast Food"
+575,18241403.0,Vaskas Biriyani,India,Coimbatore,482,3.8,"Biryani, Mughlai"
+576,3000018.0,Dindigul Venu Biryani,India,Coimbatore,477,4.2,Biryani
+577,3000251.0,Pizza Hut,India,Coimbatore,331,4.0,Pizza
+578,3002287.0,The Slave's Restaurant,India,Coimbatore,236,4.2,"South Indian, Italian, American, Salad"
+579,3000811.0,Shree Anandhaas,India,Coimbatore,239,4.5,"South Indian, North Indian, Chinese"
+580,3100210.0,Ideal Cafe,India,Mangalore,855,4.6,"Ice Cream, South Indian, Fast Food, Beverages, Desserts"
+581,3100196.0,Pabbas,India,Mangalore,1819,4.9,"Ice Cream, Desserts, Beverages, Fast Food"
+582,3100302.0,Machali,India,Mangalore,1197,4.6,"Seafood, Mangalorean, South Indian"
+583,3100753.0,Bamboo Restaurant,India,Mangalore,537,4.1,"Biryani, North Indian"
+584,18656648.0,Waffee House,India,Mangalore,408,4.4,"Desserts, Beverages"
+585,3100010.0,Diesel Cafe,India,Mangalore,543,4.3,"American, Italian, Pizza, Sandwich"
+586,3100448.0,Spindrift,India,Mangalore,544,4.3,"Continental, Pizza, Italian, Steak, Thai, Finger Food"
+587,3100924.0,Dinki Dine,India,Mangalore,315,4.2,"North Indian, Chinese, South Indian, Burger, Desserts, Beverages"
+588,3100111.0,Tandoor,India,Mangalore,207,4.2,"Seafood, Mangalorean, North Indian, South Indian, Biryani"
+589,3100044.0,Village Restaurant,India,Mangalore,633,4.2,"South Indian, Mangalorean, Arabian, Pizza, Biryani, Chinese, North Indian, Continental"
+590,3100006.0,Ideal's,India,Mangalore,529,4.5,"Ice Cream, Desserts, Beverages"
+591,3100159.0,Crave Desserts & Bakes,India,Mangalore,406,4.3,"Desserts, Bakery, Beverages"
+592,3100845.0,Drnk Lab,India,Mangalore,206,3.9,"Cafe, Burger, Beverages, Fast Food"
+593,3100134.0,Andhra House,India,Mangalore,300,4.0,"Biryani, Andhra, Chinese"
+594,3100837.0,Food Junction,India,Mangalore,240,4.1,"Charcoal Chicken, Arabian, Mughlai, Burger, Chinese, North Indian, Beverages, Desserts"
+595,3100169.0,The Old Prax,India,Mangalore,326,3.9,"Burger, Finger Food, Fast Food"
+596,3100524.0,Brick House,India,Mangalore,309,4.1,"Continental, Chinese"
+597,3100441.0,Barbeque Nation,India,Mangalore,1134,4.6,"North Indian, Chinese"
+598,3100016.0,Royal Darbar,India,Mangalore,253,4.0,"Mughlai, Biryani, North Indian, Desserts, Beverages"
+599,3100013.0,Hao Ming,India,Mangalore,565,4.0,"Chinese, Momos, Beverages"
+600,18502212.0,Munchane,India,Vadodara,1502,4.3,"Pizza, Fast Food"
+601,18409523.0,Jassi De Parathe,India,Vadodara,1664,4.7,North Indian
+602,18767071.0,Day Night Vada Pav & Dabeli,India,Vadodara,491,4.5,Fast Food
+603,3200244.0,Tasty Vada Pav,India,Vadodara,398,4.5,Street Food
+604,3201876.0,Brown Burger Co,India,Vadodara,1043,4.3,"Salad, Healthy Food, Sandwich, Fast Food, Beverages, Burger, Pizza"
+605,3200606.0,Santushti Shakes & More,India,Vadodara,597,4.5,"Beverages, Desserts"
+606,3200477.0,Chhappanbhog Restaurant & Banquets,India,Vadodara,1236,3.8,"Gujarati, North Indian"
+607,3200424.0,Domino's Pizza,India,Vadodara,1068,3.9,"Pizza, Fast Food"
+608,3200981.0,Burger King,India,Vadodara,1326,4.1,"Burger, Fast Food"
+609,3201787.0,Saladific,India,Vadodara,755,4.1,"Healthy Food, Salad, Juices, Sandwich, Fast Food"
+610,3201965.0,Old School Eatery,India,Vadodara,570,4.8,"Fast Food, North Indian"
+611,18461598.0,Amritsari Kulcha,India,Vadodara,497,4.6,Street Food
+612,3200029.0,KFC,India,Vadodara,1073,4.2,"Burger, Fast Food"
+613,3201461.0,Retro Bistro,India,Vadodara,649,4.4,"North Indian, Lebanese, Moroccan, Italian, Chinese, Continental, Mexican"
+614,3200139.0,Hariyali Restaurant,India,Vadodara,570,4.2,North Indian
+615,3200560.0,Mr Toasties,India,Vadodara,425,3.9,Fast Food
+616,3200555.0,Shree Kathiyawadi Khadki,India,Vadodara,460,4.3,"Gujarati, Rajasthani"
+617,3200298.0,Yo Frankie,India,Vadodara,301,4.3,Fast Food
+618,3200665.0,Barbeque Nation,India,Vadodara,349,4.7,"Mughlai, North Indian"
+619,3200857.0,Flavor Restaurant,India,Vadodara,854,4.0,"Gujarati, North Indian"
+620,3300072.0,Dosa Plaza,India,Nagpur,778,4.0,"Chinese, Fast Food, South Indian"
+621,18706194.0,Goosebumps,India,Nagpur,711,4.3,"Ice Cream, Bakery, Street Food, Chinese"
+622,3301708.0,Plan B,India,Nagpur,311,4.5,"Burger, Salad, Sandwich, Fast Food, Beverages"
+623,3300056.0,Barbecue Restaurant,India,Nagpur,1143,4.8,North Indian
+624,3301462.0,Three Beans,India,Nagpur,626,4.4,"Cafe, Italian, Continental"
+625,3300012.0,Mini Punjab,India,Nagpur,1800,3.6,"Chinese, North Indian, Mughlai"
+626,18623894.0,Bouffage Cafe & Bistro,India,Nagpur,656,4.7,"Cafe, Continental, North Indian"
+627,18748677.0,The Civil Kitchen,India,Nagpur,232,4.2,"Chinese, Sandwich, Fast Food, North Indian, Burger, Kebab, Mughlai, Desserts"
+628,3300707.0,KFC,India,Nagpur,2101,4.2,"Burger, Fast Food"
+629,3300958.0,Barbeque Nation,India,Nagpur,1274,4.9,"North Indian, Chinese, BBQ"
+630,3301605.0,Roast Cafe,India,Nagpur,863,4.5,"Cafe, Roast Chicken, Fast Food, Wraps, Rolls, Kebab, Desserts"
+631,18717585.0,Tanjore - Enter the Deccan,India,Nagpur,410,4.5,South Indian
+632,3301200.0,Behrouz Biryani,India,Nagpur,675,4.1,Biryani
+633,18394440.0,Uttar Dakshin by Naivedhyam,India,Nagpur,1340,4.8,"North Indian, South Indian"
+634,3300011.0,Babbu Hotel,India,Nagpur,972,4.1,"North Indian, Biryani"
+635,3300058.0,The Breakfast Story,India,Nagpur,1081,4.5,Cafe
+636,3301013.0,Zaikart,India,Nagpur,1647,4.2,"North Indian, Mughlai, Chinese"
+637,18795312.0,Juhi's Kitchen,India,Nagpur,253,4.7,North Indian
+638,18664896.0,Burger Singh,India,Nagpur,661,4.1,"Fast Food, Burger"
+639,3301766.0,Hunger's Den Restaurant & Cafe,India,Nagpur,563,4.1,"Chinese, Fast Food, North Indian"
+640,18888066.0,Kiskey Whiskey,India,Agra,307,4.5,"North Indian, Continental, Chinese"
+641,3401013.0,Bhagat Halwai,India,Agra,626,4.2,"Fast Food, Mithai"
+642,3400299.0,Bikanervala,India,Agra,640,4.4,"North Indian, South Indian, Mithai, Street Food, Desserts"
+643,3400290.0,Bhagat Halwai,India,Agra,553,4.3,"Desserts, Bakery, Fast Food, South Indian"
+644,3400005.0,Mama Chicken Mama Franky House,India,Agra,893,4.3,"North Indian, Mughlai, Rolls, Chinese, Fast Food, Street Food"
+645,3401344.0,Cafe Turquoise Cottage,India,Agra,292,4.7,"North Indian, Chinese, Continental, Italian, Pizza"
+646,3400296.0,Honeydew Restaurant,India,Agra,484,4.1,"North Indian, Fast Food, Chinese, South Indian"
+647,3400712.0,The Greener Side,India,Agra,408,4.4,Fast Food
+648,18966639.0,Fakira,India,Agra,41,4.0,North Indian
+649,3400275.0,Domino's Pizza,India,Agra,585,3.9,"Pizza, Fast Food"
+650,3400425.0,Bikanervala,India,Agra,447,4.4,"North Indian, South Indian, Mithai, Street Food, Desserts"
+651,3400868.0,Hichkee,India,Agra,581,4.4,"Continental, North Indian, Chinese"
+652,3400850.0,Urban Deck,India,Agra,606,4.3,"Mexican, Italian, North Indian"
+653,3400105.0,Pizza Hut,India,Agra,546,4.0,"Italian, Pizza"
+654,3400279.0,Mc Donald's,India,Agra,644,4.2,"Burger, Fast Food"
+655,3400017.0,Pinch Of Spice,India,Agra,860,4.5,"North Indian, Chinese, Mughlai"
+656,3400282.0,Aahar,India,Agra,368,4.0,"North Indian, South Indian, Chinese, Bakery, Momos"
+657,3400277.0,Pizza Hut,India,Agra,331,3.8,"Italian, Pizza"
+658,3400326.0,Tea'se Me - Rooftop Tea Boutique,India,Agra,673,4.7,"Chinese, Italian, Continental, North Indian"
+659,3400368.0,Domino's Pizza,India,Agra,475,3.8,"Pizza, Fast Food"
+660,3500424.0,Gaylord Xpress,India,Dehradun,623,3.9,Fast Food
+661,3500484.0,Kalsang AMA Cafe,India,Dehradun,800,4.9,Cafe
+662,3500505.0,Barbeque Nation,India,Dehradun,620,4.8,"North Indian, Mediterranean, BBQ, Chinese"
+663,3500218.0,Uss Da Dhaba,India,Dehradun,575,4.2,North Indian
+664,3502144.0,Mannu Fast Food,India,Dehradun,315,4.3,"Fast Food, North Indian, Chinese"
+665,3501639.0,70 Percent Restro Cafe,India,Dehradun,314,4.5,"Cafe, Italian, Continental, Healthy Food, Momos"
+666,3500437.0,Walk In Woods,India,Dehradun,405,4.3,"North Indian, Pizza, Chinese, Mughlai"
+667,18391854.0,Burger King,India,Dehradun,323,4.1,"Burger, Fast Food"
+668,18754629.0,Domino's Pizza,India,Dehradun,393,3.8,"Pizza, Fast Food"
+669,18408585.0,Punjab Grill,India,Dehradun,803,4.7,"Mughlai, North Indian"
+670,3500017.0,Anandam,India,Dehradun,376,4.2,"Desserts, North Indian, Chinese, South Indian, Fast Food, Street Food"
+671,3500250.0,Ellora's Melting Moments,India,Dehradun,309,4.3,"Desserts, Bakery, Fast Food"
+672,3500078.0,Orchard,India,Dehradun,748,4.6,"Chinese, Tibetan, Thai, Momos"
+673,3501364.0,Chicago BR,India,Dehradun,285,4.1,"North Indian, Fast Food, Pizza, Desserts"
+674,3500193.0,KC Soup Bar,India,Dehradun,251,3.9,"Fast Food, Chinese, Tibetan, Momos"
+675,18699236.0,Tuhada Dhaba,India,Dehradun,229,4.0,North Indian
+676,3500011.0,Kalsang Friends Corner,India,Dehradun,813,4.4,"Chinese, Thai, Tibetan, Momos"
+677,3500969.0,Cafe De Piccolo,India,Dehradun,382,4.3,"Cafe, Italian"
+678,18416632.0,The Great Indian Pub,India,Dehradun,308,4.4,"North Indian, Italian, Finger Food"
+679,3500010.0,Black Pepper Restaurant,India,Dehradun,421,4.1,"North Indian, Chinese, Continental"
+680,3600012.0,Empire Restaurant,India,Mysore,2028,4.2,"North Indian, Mughlai, South Indian, Chinese, Andhra"
+681,3600375.0,The Old House,India,Mysore,753,4.7,"Italian, Pizza"
+682,3600017.0,Gufha Restaurant,India,Mysore,955,4.3,"North Indian, Biryani, Chinese"
+683,3600065.0,Hotel RRR,India,Mysore,533,4.2,"Biryani, South Indian, Andhra"
+684,3600122.0,Kafe Biryani Corner,India,Mysore,382,4.3,Biryani
+685,3601144.0,Kapoor's Cafe,India,Mysore,282,4.3,"North Indian, Desserts, Beverages"
+686,3600119.0,Big Chicken,India,Mysore,554,4.3,"North Indian, Chinese, Burger, Biryani, Arabian"
+687,3600593.0,Frosting,India,Mysore,374,4.5,"Italian, Continental, Burger"
+688,3600817.0,Etihad Arabian Restaurant,India,Mysore,314,4.1,"Arabian, Biryani"
+689,3600352.0,Barbeque Nation,India,Mysore,812,4.6,"North Indian, European, Mediterranean"
+690,3600389.0,Highway 18,India,Mysore,357,4.0,"South Indian, North Indian, Chinese, Desserts, Beverages"
+691,3600018.0,KFC,India,Mysore,483,3.9,"Burger, Fast Food"
+692,3600013.0,Green Leaf,India,Mysore,474,4.0,"North Indian, Chinese, South Indian, Bakery"
+693,3600192.0,Spring - Radisson Blu Plaza,India,Mysore,284,4.4,"Continental, North Indian, South Indian"
+694,3600015.0,Original Vinayaka Mylari,India,Mysore,814,4.8,South Indian
+695,3600148.0,Andhra Ruchulu,India,Mysore,409,4.1,"Biryani, Desserts"
+696,3600265.0,Jalpaan Dining Saga,India,Mysore,437,4.3,"Italian, North Indian, Chinese"
+697,3600252.0,Hotel RRR Mysore,India,Mysore,528,4.1,Andhra
+698,3600072.0,Nanking,India,Mysore,482,4.2,"Chinese, Momos, Thai"
+699,3600403.0,Hotel Hanumanthu,India,Mysore,449,4.2,"Biryani, South Indian"
+700,3700054.0,Cafe Xtasi,India,Puducherry,2617,3.9,"Italian, Pizza"
+701,3700051.0,Cafe des Arts,India,Puducherry,818,3.9,Cafe
+702,3700050.0,Baker Street,India,Puducherry,1548,4.4,"Bakery, French"
+703,3700770.0,Escape In,India,Puducherry,725,4.1,"North Indian, Continental, Chinese, Arabian, BBQ, Beverages, Desserts, Ice Cream"
+704,3700021.0,The Indian Kaffe Express,India,Puducherry,877,4.2,"Cafe, North Indian"
+705,3701200.0,Les Saveurs,India,Puducherry,184,4.3,"French, European"
+706,18378803.0,#Dilliwaala6,India,Puducherry,975,4.3,"Street Food, Continental, North Indian, Chinese, Salad, Finger Food"
+707,3700049.0,Villa Shanti,India,Puducherry,1096,4.4,Continental
+708,3700041.0,Zuka,India,Puducherry,1019,4.6,"Desserts, Bakery"
+709,3701130.0,PY Cafe,India,Puducherry,201,4.2,"Salad, Cafe, Sandwich, Italian, Juices, Desserts"
+710,3700572.0,Bread & Chocolate,India,Puducherry,378,4.7,"Bakery, Cafe, Healthy Food"
+711,3700649.0,Taka Pizza,India,Puducherry,888,4.3,"Italian, Pizza"
+712,3700069.0,Le Cafe,India,Puducherry,1436,3.3,Cafe
+713,3700010.0,Auroville Bakery,India,Puducherry,431,4.2,Bakery
+714,3700656.0,Margaritas,India,Puducherry,960,4.4,"Mexican, Continental, American, Desserts, Finger Food, Ice Cream, Juices, Salad"
+715,3700037.0,Le Dupleix,India,Puducherry,846,4.2,"North Indian, French, Continental"
+716,3700017.0,The Pasta Bar Veneto,India,Puducherry,623,4.0,"Healthy Food, Continental, Italian, Sandwich, Salad"
+717,3700723.0,SICILYS,India,Puducherry,312,4.0,"Italian, Cafe, Burger, Pizza, Beverages"
+718,3700047.0,Surguru,India,Puducherry,484,4.1,"South Indian, North Indian, Chinese"
+719,3700009.0,Tanto,India,Puducherry,879,4.2,"Pizza, Italian"
+720,3800420.0,Mahalakshmi,India,Surat,1229,4.6,"Fast Food, Juices"
+721,18744566.0,Burger King,India,Surat,563,4.0,"Burger, Fast Food"
+722,3800007.0,Barbeque Nation,India,Surat,622,4.7,"North Indian, European, Mediterranean"
+723,3800321.0,Coffee King,India,Surat,755,4.6,"Cafe, Pizza, Italian, Fast Food, Chinese, Beverages, Desserts"
+724,18589557.0,Vegji's,India,Surat,429,4.2,"Fast Food, Sandwich, Lebanese"
+725,19003551.0,Icekraft,India,Surat,59,4.3,"Ice Cream, Desserts, Fast Food"
+726,3800583.0,Kailash Sweets & Snacks,India,Surat,385,4.2,"Mithai, Street Food, Beverages"
+727,3800696.0,Kailash Sweet & Snacks,India,Surat,399,4.4,"Street Food, Mithai, Beverages"
+728,3800313.0,Bhai Bhai Omelette Center,India,Surat,594,4.6,Fast Food
+729,18760674.0,Sarvottam Hotel,India,Surat,382,4.1,"North Indian, Chinese"
+730,18551944.0,Coffee King,India,Surat,989,4.7,"Cafe, Desserts, Fast Food"
+731,3800068.0,Jalaram Khichadi,India,Surat,261,4.1,"Gujarati, North Indian, Biryani, Beverages"
+732,3800390.0,Singh Saaab Di Rasoi,India,Surat,380,4.3,"North Indian, Chinese, Biryani, Desserts, Beverages"
+733,18349362.0,Harikrushna Restaurant,India,Surat,266,4.3,"Gujarati, North Indian, Biryani, Beverages"
+734,18778476.0,Bismillah,India,Surat,197,4.2,"Beverages, North Indian"
+735,18783529.0,Kailash Sweets & Snacks,India,Surat,275,4.3,"Mithai, Street Food, Beverages"
+736,3800537.0,Mahesh Pav Bhaji,India,Surat,424,3.9,"South Indian, Street Food, Chinese, Desserts, Beverages"
+737,3800017.0,Pizza Hut,India,Surat,598,4.0,"Pizza, Fast Food, Italian"
+738,3800293.0,Kailash Sweets & Snacks,India,Surat,343,4.3,"Mithai, Street Food, Beverages"
+739,3800690.0,Bismillah,India,Surat,366,4.4,"Beverages, North Indian"
+740,3900223.0,Sha Chicken Hut,India,Varanasi,804,4.4,"Lucknowi, Mughlai"
+741,18803653.0,KFC,India,Varanasi,462,4.5,"Burger, Fast Food"
+742,3900067.0,Taste King,India,Varanasi,601,4.3,"North Indian, Fast Food"
+743,18610032.0,Crood Square,India,Varanasi,249,4.3,"North Indian, Continental, Italian, Chinese, Desserts"
+744,3900057.0,Ming Garden,India,Varanasi,735,4.3,"Beverages, Desserts, Pizza, Chinese"
+745,3900045.0,Domino's Pizza,India,Varanasi,721,3.8,"Pizza, Fast Food"
+746,3900253.0,Sagar Ratna,India,Varanasi,211,3.9,South Indian
+747,3900267.0,Roma's Café Diner,India,Varanasi,877,4.6,"Continental, Cafe, North Indian, Italian, Asian, Mediterranean, Mexican"
+748,18689916.0,The Yellow Chilli,India,Varanasi,108,4.4,"North Indian, Mughlai"
+749,3900245.0,Deena Chat Bhandar,India,Varanasi,446,4.6,Street Food
+750,18652184.0,Doodh Booth,India,Varanasi,427,4.0,"Burger, Beverages, Fast Food, Cafe, Italian"
+751,3900135.0,Maharaja Restaurant,India,Varanasi,358,4.0,"Chinese, Rolls"
+752,18787962.0,Cafe de Coop,India,Varanasi,140,4.2,Fast Food
+753,3900032.0,Kashi Chat Bhandar,India,Varanasi,735,4.8,Street Food
+754,3900455.0,The Tripling Bistro,India,Varanasi,316,4.1,"Continental, Mexican, Burger, Fast Food, Italian, Pizza, Chinese, Middle Eastern"
+755,3900037.0,Pizza Hut,India,Varanasi,444,3.9,"Italian, Pizza"
+756,3900138.0,McDonald's,India,Varanasi,414,4.1,"Burger, Fast Food"
+757,3900266.0,Holy Chopsticks,India,Varanasi,445,4.5,"Chinese, Thai, Momos"
+758,18676368.0,Barbeque Nation,India,Varanasi,370,4.9,"North Indian, Chinese, BBQ"
+759,3900043.0,Domino's Pizza,India,Varanasi,452,3.9,"Pizza, Fast Food"
+760,4000412.0,Aasman,India,Patna,846,4.8,"North Indian, Continental, Chinese"
+761,18640853.0,Foresto Paradise,India,Patna,593,4.7,"North Indian, Chinese, Continental"
+762,4000320.0,Haldiram,India,Patna,833,4.5,"Fast Food, North Indian, South Indian, Chinese, Desserts"
+763,4000265.0,Harilal's,India,Patna,416,4.5,"North Indian, Fast Food, Mithai"
+764,18343124.0,Swaaddesh,India,Patna,703,4.4,"North Indian, Chinese, Beverages"
+765,4000274.0,KFC,India,Patna,698,4.3,"Burger, Fast Food"
+766,18746152.0,Hungry Hope,India,Patna,522,3.6,"North Indian, Chinese"
+767,4000009.0,Domino's Pizza,India,Patna,1216,4.0,"Pizza, Fast Food"
+768,4000289.0,The Biryani Mall,India,Patna,855,4.0,"Biryani, Mughlai, Chinese"
+769,18625991.0,Barbeque Nation,India,Patna,633,4.9,"North Indian, Chinese"
+770,4000018.0,Kapil Dev's Eleven,India,Patna,376,4.4,"North Indian, Chinese, Continental"
+771,4000016.0,Bansi Vihar Restaurant,India,Patna,444,4.4,"South Indian, Chinese"
+772,18573326.0,Biryani Mahal,India,Patna,752,4.1,"Biryani, Mughlai"
+773,18705092.0,Harilal's,India,Patna,557,4.2,"Mithai, Fast Food"
+774,18706220.0,Zaaffran,India,Patna,393,4.4,"North Indian, Fast Food"
+775,4000336.0,Pizza Hut,India,Patna,431,2.5,"Pizza, Italian"
+776,4000015.0,Nirvana,India,Patna,432,4.3,"North Indian, Chinese"
+777,4000053.0,Biryani House,India,Patna,734,4.0,"Biryani, Mughlai"
+778,18616231.0,Chaska The Addiction,India,Patna,528,3.9,"North Indian, Mughlai, Chinese, Biryani"
+779,4000049.0,Lakhu Da Dhaba,India,Patna,459,3.9,"North Indian, Chinese"
+780,18560275.0,Barbeque Nation,UAE,Dubai,1212,4.6,"Indian, BBQ, Continental"
+781,18534988.0,Masala Wok,UAE,Dubai,1100,4.3,"Indian, Chinese, Kebab"
+782,210139.0,Grub Shack,UAE,Dubai,1735,4.4,"Goan, Chinese, Indian, North Indian"
+783,201693.0,Dhaba Lane,UAE,Dubai,1233,4.4,"Indian, North Indian, Kebab"
+784,209723.0,Azkadenya,UAE,Dubai,660,4.3,"Arabian, Lebanese"
+785,18621395.0,Highway 311 Grills and Eatery,UAE,Dubai,458,4.5,"Mexican, Peruvian, Latin American"
+786,207770.0,Mint Leaf of London,UAE,Dubai,2092,4.9,"Indian, North Indian, Contemporary"
+787,209748.0,Kulcha King,UAE,Dubai,1157,4.1,"Indian, Biryani, Kebab, North Indian"
+788,205432.0,Old Castello Restaurant & Cafe,UAE,Dubai,525,4.4,"Indian, Arabian, Middle Eastern, Italian, Pizza"
+789,18549283.0,Sthan,UAE,Dubai,1591,4.2,"Biryani, North Indian, Pakistani, Mughlai, Afghan, Indian, Kebab"
+790,200376.0,California Pizza Kitchen,UAE,Dubai,1244,4.2,"Pizza, American"
+791,203518.0,The Huddle Sports Bar and Grill - Citymax Hotels Bur Dubai,UAE,Dubai,1492,4.9,"Steak, Continental, North Indian"
+792,18233284.0,Farzi Cafe,UAE,Dubai,2095,4.6,"Indian, Contemporary"
+793,18604803.0,Dillicious,UAE,Dubai,900,4.0,"Indian, Mughlai, North Indian, Kebab"
+794,18650045.0,Tamarind Terrace,UAE,Dubai,875,4.0,"Kerala, South Indian, Indian"
+795,18820043.0,Biryaniwalla & Co,UAE,Dubai,535,3.9,"Biryani, Hyderabadi, North Indian"
+796,210370.0,Texas De Brazil,UAE,Dubai,1301,4.8,Brazilian
+797,18259525.0,Real Momos,UAE,Dubai,885,3.7,"Chinese, Asian, Street Food"
+798,209654.0,Rasoi Ghar,UAE,Dubai,2600,4.6,"Indian, Gujarati, Rajasthani"
+799,200377.0,California Pizza Kitchen,UAE,Dubai,1198,4.3,"Pizza, American"
+800,18485435.0,The Curry Culture,Singapore,Singapore,80,4.9,"Continental, Indian, Asian"
+801,18483420.0,Burnt Ends,Singapore,Singapore,37,4.7,"American, European, Australian, Steak"
+802,18482848.0,Singapore Zam Zam Restaurant,Singapore,Singapore,75,4.7,"South Indian, Singaporean, Middle Eastern, Indian"
+803,18496115.0,Komala Vilas Restaurant,Singapore,Singapore,100,4.7,"Indian, North Indian, South Indian"
+804,18482886.0,Corner House,Singapore,Singapore,25,4.9,"Continental, French"
+805,18484349.0,Cut By Wolfgang Puck,Singapore,Singapore,52,4.9,"American, Steak"
+806,18483222.0,Jaan,Singapore,Singapore,30,4.7,French
+807,18484299.0,Melt Cafe,Singapore,Singapore,31,4.8,"Singaporean, European, Seafood, Indian, Japanese, Continental"
+808,18483051.0,Summer Pavilion,Singapore,Singapore,28,4.8,"Chinese, Seafood, Cantonese, Dim Sum"
+809,18483372.0,Sky On 57,Singapore,Singapore,32,4.8,"Chinese, Continental, Singaporean"
+810,18483595.0,Edge,Singapore,Singapore,19,4.5,"Chinese, Thai, Japanese, Italian"
+811,18485564.0,Wild Honey,Singapore,Singapore,72,4.9,"European, Spanish, American, Cafe"
+812,18485572.0,Carousel,Singapore,Singapore,25,4.6,"Mediterranean, Asian, Japanese, Sushi, Seafood, French"
+813,18483714.0,Fratini La Trattoria,Singapore,Singapore,21,4.8,Italian
+814,18483374.0,My Awesome Cafe,Singapore,Singapore,23,4.9,"Continental, European"
+815,18483658.0,Basilico,Singapore,Singapore,25,4.8,Italian
+816,18484464.0,Colony,Singapore,Singapore,45,4.9,"Asian, Continental, Seafood, Bakery"
+817,18483362.0,Adrift By David Myers,Singapore,Singapore,20,4.6,"American, Asian, Continental, Fusion"
+818,18493989.0,Makansutra Gluttons Bay,Singapore,Singapore,41,4.7,"Singaporean, Chinese, Seafood, Malay, Indian"
+819,18494038.0,Peach Blossoms,Singapore,Singapore,13,4.0,"Singaporean, Chinese, Dim Sum, Healthy Food, Seafood, Cantonese"
+820,5603572.0,Ushna,UAE,Sharjah,166,4.4,"Indian, North Indian"
+821,5601340.0,Aroos Damascus,UAE,Sharjah,1036,4.4,"Arabian, Middle Eastern"
+822,5600642.0,Katis Restaurant,UAE,Sharjah,644,4.1,"North Indian, Chinese, Hyderabadi"
+823,5604236.0,Malabar Regency,UAE,Sharjah,182,3.7,"Indian, Arabian, Middle Eastern"
+824,5602586.0,Saffron,UAE,Sharjah,732,4.1,"Pakistani, Chinese, Indian, Afghan"
+825,18386634.0,Momo House,UAE,Sharjah,877,4.6,"Chinese, Indian, Nepalese"
+826,5603322.0,Khanji,UAE,Sharjah,475,3.9,"Pakistani, Indian, Chinese"
+827,5603447.0,Eat Route,UAE,Sharjah,574,4.6,"Fast Food, Burger, American"
+828,5602215.0,Makani Restaurant,UAE,Sharjah,651,4.5,"Indian, North Indian, Mughlai"
+829,5600103.0,Najmat Lahore Restaurant,UAE,Sharjah,1158,4.1,"Pakistani, Indian, Mughlai, Desserts"
+830,5602106.0,Papa Murphy's Pizza,UAE,Sharjah,486,4.1,"Pizza, Italian"
+831,5601628.0,Laffah Cafeteria - كافتيريا لفاح,UAE,Sharjah,737,4.6,"Fast Food, Arabian, Middle Eastern"
+832,18268134.0,Zaroob,UAE,Sharjah,297,4.1,Lebanese
+833,5600959.0,Nayaab Haandi,UAE,Sharjah,970,4.3,"Pakistani, Indian"
+834,5603697.0,Al Miqat,UAE,Sharjah,186,4.2,"Indian, Seafood, Pakistani, Grill"
+835,5601952.0,Delhi Nihari Restaurant,UAE,Sharjah,613,3.7,"Mughlai, Indian, Pakistani"
+836,5601723.0,The Pizza Company,UAE,Sharjah,727,4.4,Pizza
+837,5600556.0,TGI Fridays,UAE,Sharjah,582,4.0,"American, Mexican"
+838,5601606.0,Shakespeare and Co. - شكسبير اند كو,UAE,Sharjah,378,4.6,"Cafe, Bakery"
+839,5604675.0,Molten Chocolate Cafe,UAE,Sharjah,116,4.9,Cafe
+840,5701885.0,Max's Restaurant,UAE,Abu Dhabi,1625,4.9,Filipino
+841,18403563.0,Texas de Brazil,UAE,Abu Dhabi,541,4.9,Brazilian
+842,5702615.0,Via Delhi,UAE,Abu Dhabi,1148,4.3,"Indian, North Indian, Chinese"
+843,18340151.0,Famous Dave's Barbecue,UAE,Abu Dhabi,458,4.6,"Burger, American, Steak"
+844,5702148.0,Nando's,UAE,Abu Dhabi,684,4.2,"Portuguese, African"
+845,18431870.0,Parivar Restaurant,UAE,Abu Dhabi,601,4.1,"Indian, Pakistani"
+846,5702574.0,The Cheesecake Factory,UAE,Abu Dhabi,974,4.7,"American, Desserts, Salad"
+847,5701978.0,Pizza Di Rocco,UAE,Abu Dhabi,972,4.7,"Italian, Pizza"
+848,5702150.0,Papa Murphy's Pizza- World Trade Center Mall,UAE,Abu Dhabi,779,3.9,Pizza
+849,5704255.0,Famous Dave's Barbecue,UAE,Abu Dhabi,798,4.6,"Burger, American, Steak"
+850,5700119.0,India Palace,UAE,Abu Dhabi,546,4.0,"North Indian, Mughlai, Biryani, Indian"
+851,5701025.0,India Palace,UAE,Abu Dhabi,481,4.4,"North Indian, Mughlai, Biryani, Indian"
+852,5704202.0,Hot Palayok,UAE,Abu Dhabi,829,4.5,Filipino
+853,18493509.0,MYNT Indian Cuisine,UAE,Abu Dhabi,411,4.5,Indian
+854,18212135.0,Denny's,UAE,Abu Dhabi,762,4.6,American
+855,5701442.0,Peppermill,UAE,Abu Dhabi,633,4.3,"Indian, North Indian, Mughlai, Biryani"
+856,5702990.0,Jazz@PizzaExpress,UAE,Abu Dhabi,1374,4.8,"Italian, Pizza, Salad"
+857,18277098.0,Ming's Chamber,UAE,Abu Dhabi,657,4.8,Asian
+858,5702486.0,Ghee Rice,UAE,Abu Dhabi,693,3.9,"Indian, Kerala, Biryani"
+859,18340175.0,The Yellow Chilli by Sanjeev Kapoor,UAE,Abu Dhabi,670,4.3,"Indian, North Indian"
+860,5800678.0,Harbour Court - The Kingsbury,Sri Lanka,Colombo,174,4.4,"Italian, Seafood, Desserts"
+861,5801085.0,Tea Avenue,Sri Lanka,Colombo,335,4.5,Cafe
+862,5800240.0,The Gallery Cafe,Sri Lanka,Colombo,242,4.7,"Sri Lankan, Italian, Seafood, Desserts"
+863,5800710.0,The Manhattan Fish Market,Sri Lanka,Colombo,285,4.3,"Seafood, Italian"
+864,5800224.0,Sugar Bistro and Wine Bar,Sri Lanka,Colombo,172,4.4,"Cafe, American, Continental"
+865,5800746.0,T.G.I. Friday's,Sri Lanka,Colombo,233,4.3,"American, Steak"
+866,5800011.0,The Bavarian,Sri Lanka,Colombo,211,4.6,German
+867,5800707.0,The Barnesbury,Sri Lanka,Colombo,291,4.2,"American, Italian, Cafe"
+868,5800646.0,Coco Veranda,Sri Lanka,Colombo,181,4.2,"American, Cafe"
+869,5800066.0,Java Lounge,Sri Lanka,Colombo,141,4.1,"Cafe, Italian, Fast Food"
+870,5800634.0,Elite Indian Restaurant,Sri Lanka,Colombo,315,2.6,"North Indian, Chinese, Sri Lankan"
+871,5800180.0,Cafe On The 5th,Sri Lanka,Colombo,224,4.0,Sri Lankan
+872,5800947.0,The English Cake Company - The Cakery,Sri Lanka,Colombo,114,4.1,"Desserts, Bakery"
+873,5801131.0,Indian Summer,Sri Lanka,Colombo,187,4.3,"Indian, Chinese"
+874,5800590.0,The Commons,Sri Lanka,Colombo,303,4.2,"Cafe, Sri Lankan, Continental, American"
+875,5800536.0,The Mango Tree,Sri Lanka,Colombo,167,3.9,"North Indian, Mughlai"
+876,5800891.0,The Paddington,Sri Lanka,Colombo,136,3.8,"Cafe, Italian"
+877,5800289.0,The Coffee Bean & Tea Leaf,Sri Lanka,Colombo,161,4.2,Cafe
+878,5800755.0,Upali's,Sri Lanka,Colombo,211,4.3,Sri Lankan
+879,5800612.0,Burger's King,Sri Lanka,Colombo,237,4.0,Fast Food
+880,18286221.0,Sarıhan,Turkey,İstanbul,500,4.4,"Giblets, Izgara, Home-made"
+881,5915530.0,Nusr-Et Steakhouse,Turkey,İstanbul,1990,4.6,Steak
+882,18264711.0,Ercan Steakhouse,Turkey,İstanbul,503,4.1,Steak
+883,5926083.0,Joker No:19,Turkey,İstanbul,925,4.4,"Bar Food, Restaurant Cafe"
+884,18453909.0,Asuman,Turkey,İstanbul,861,4.6,Desserts
+885,18140481.0,Mendel's,Turkey,İstanbul,1424,4.7,"Desserts, Cafe"
+886,5916219.0,Biber Burger,Turkey,İstanbul,1580,4.6,Burger
+887,5916870.0,Kukis,Turkey,İstanbul,899,4.9,"Patisserie, Cafe, Turkish"
+888,5902117.0,Valonia,Turkey,İstanbul,1871,4.3,"Restaurant Cafe, Desserts"
+889,5915409.0,Eleos Restaurant,Turkey,İstanbul,1154,4.9,"Greek, Fresh Fish, Old Turkish Bars"
+890,5906444.0,Tarihi Viktor Levi Şarap Evi,Turkey,İstanbul,1177,4.6,World Cuisine
+891,5915054.0,Baltazar,Turkey,İstanbul,2015,4.2,"Burger, Izgara"
+892,5913508.0,Katibim,Turkey,İstanbul,1141,4.2,"Restaurant Cafe, Kebab, Turkish Pizza"
+893,18140482.0,BeerHall,Turkey,İstanbul,1108,4.1,"Finger Food, American"
+894,18384475.0,Happy Moon's,Turkey,İstanbul,503,4.4,World Cuisine
+895,5908749.0,Ceviz Ağacı,Turkey,İstanbul,1693,4.3,"World Cuisine, Patisserie, Cafe"
+896,5906931.0,My Chef,Turkey,İstanbul,1252,4.4,"World Cuisine, Cafe"
+897,5904851.0,Limonlu Bahçe,Turkey,İstanbul,1645,4.5,Restaurant Cafe
+898,18089353.0,Mükellef,Turkey,İstanbul,946,4.4,"Old Turkish Bars, Turkish"
+899,5923535.0,Boon Cafe & Restaurant,Turkey,İstanbul,1160,4.2,Restaurant Cafe
+900,6000482.0,Mersinli Ciğerci Apo,Turkey,Ankara,360,4.5,"Izgara, Giblets, Kebab"
+901,6001317.0,Cafe Des Cafes,Turkey,Ankara,237,4.7,"Cafe, World Cuisine"
+902,6005865.0,The Italian Cut Pizza & Kitchen,Turkey,Ankara,261,4.6,Pizza
+903,6000447.0,Masabaşı Kebapçısı,Turkey,Ankara,360,4.6,"Kebab, Turkish Pizza"
+904,6000168.0,Hattena Hatay  Sofrası,Turkey,Ankara,343,4.8,Kebab
+905,6002297.0,Trilye,Turkey,Ankara,186,4.9,"Fresh Fish, Seafood"
+906,6000871.0,Çukurağa Sofrası,Turkey,Ankara,450,4.5,"Kebab, Izgara"
+907,6003858.0,Quick China,Turkey,Ankara,107,4.5,"Chinese, Thai, Sushi, Japanese, Asian"
+908,6004408.0,Turta Home Cafe,Turkey,Ankara,256,4.4,"Cafe, Desserts"
+909,6000185.0,La Gioia Cafe Brasserie,Turkey,Ankara,154,4.7,"Italian, European"
+910,6001980.0,Timboo Cafe,Turkey,Ankara,234,4.3,Cafe
+911,6001545.0,Cafe Botanica,Turkey,Ankara,227,4.5,"Restaurant Cafe, Cafe"
+912,6000409.0,Cafemiz,Turkey,Ankara,199,4.5,"World Cuisine, Mexican, Italian"
+913,6002025.0,Masabaşı,Turkey,Ankara,248,4.4,"Kebab, Turkish Pizza"
+914,6001748.0,Meşhur Özçelik Aspava,Turkey,Ankara,222,4.7,"Kebab, Turkish Pizza"
+915,6005539.0,Zaytung Zone,Turkey,Ankara,151,3.9,Restaurant Cafe
+916,6000019.0,Nusr-Et Steakhouse,Turkey,Ankara,229,4.4,Steak
+917,6000921.0,Düveroğlu,Turkey,Ankara,242,4.3,"Kebab, Desserts, Turkish Pizza"
+918,6007004.0,Müslüm Kebap,Turkey,Ankara,178,4.6,Kebab
+919,6000549.0,Meşhur Tavacı Recep Usta,Turkey,Ankara,299,4.6,Kebab
+920,6114829.0,Duck & Waffle,United Kingdom,London,834,4.9,British
+921,6107336.0,Sushi Samba,United Kingdom,London,484,4.9,"Japanese, Sushi, Brazilian, Peruvian"
+922,6113857.0,sketch Gallery,United Kingdom,London,211,4.8,"British, Contemporary"
+923,6104220.0,Roti Chai,United Kingdom,London,365,4.7,"Indian, Street Food"
+924,6103211.0,Dishoom,United Kingdom,London,1023,4.9,"Indian, North Indian, Curry, Cafe"
+925,6104649.0,Honest Burgers,United Kingdom,London,368,4.6,Burger
+926,6100054.0,Masala Zone,United Kingdom,London,313,4.5,"Indian, Curry"
+927,6104639.0,Bob Bob Ricard,United Kingdom,London,387,4.8,"British, Russian"
+928,6107493.0,Tayyabs,United Kingdom,London,759,4.5,"North Indian, Indian, Pakistani, Curry"
+929,6117859.0,Shake Shack,United Kingdom,London,541,4.2,"American, Burger"
+930,6113835.0,Dinner By Heston Blumenthal - Mandarin Oriental Hyde Park,United Kingdom,London,595,4.9,British
+931,6105938.0,Patty & Bun,United Kingdom,London,496,4.8,"Burger, British"
+932,6102622.0,Burger & Lobster,United Kingdom,London,450,4.8,"American, Seafood, Burger"
+933,6116783.0,Aqua Shard,United Kingdom,London,238,4.4,British
+934,6102866.0,Hakkasan,United Kingdom,London,425,4.9,"Chinese, Dim Sum"
+935,6112889.0,MEATliquor,United Kingdom,London,614,4.6,"American, Burger"
+936,6116563.0,Chotto Matte,United Kingdom,London,361,4.9,"Japanese, Peruvian, Sushi"
+937,6103922.0,Dishoom,United Kingdom,London,336,4.7,"Indian, Cafe, Curry"
+938,6100354.0,Busaba Eathai,United Kingdom,London,499,4.6,"Thai, Curry"
+939,6103902.0,Yauatcha,United Kingdom,London,805,4.8,"Chinese, Dim Sum"
+940,18455788.0,Zaitoon Restaurant & Grills,Qatar,Doha,925,4.4,"Indian, Chinese, Arabian, Fast Food, Kebab, Middle Eastern"
+941,6202987.0,Max's Restaurant,Qatar,Doha,452,4.8,Filipino
+942,18397873.0,Hasan Kolcuoğlu,Qatar,Doha,1156,4.8,Turkish
+943,18425886.0,Hasan Kolcuoğlu,Qatar,Doha,591,4.4,Turkish
+944,18318801.0,Roti & Boti,Qatar,Doha,1361,4.1,Indian
+945,18187643.0,Max's Restaurant,Qatar,Doha,450,4.9,Filipino
+946,18722599.0,Kairali Al Tanoor,Qatar,Doha,319,4.2,"North Indian, Kerala, Chinese, Mangalorean, Continental, Indian, Seafood, South Indian"
+947,18107765.0,Zaffran Dining Experience,Qatar,Doha,685,4.5,Indian
+948,6200733.0,Carluccio's - كارلوتشيوز,Qatar,Doha,424,4.2,Italian
+949,18439782.0,Carluccio's - كارلوتشيوز,Qatar,Doha,381,4.7,Italian
+950,6201346.0,Zaffran Café,Qatar,Doha,487,4.4,"Indian, Street Food, Desserts"
+951,6201334.0,Chi'Zen - تشي زين,Qatar,Doha,345,4.5,"Chinese, Asian"
+952,6200166.0,Wok of Fame,Qatar,Doha,978,4.5,"Arabian, Asian, Continental"
+953,6201309.0,MRA Bakery Sweets & Restaurant,Qatar,Doha,631,4.0,"Kerala, Indian, Chinese, Bakery, South Indian, North Indian, Desserts"
+954,6200383.0,Applebee's - ابل بيز,Qatar,Doha,424,4.3,"American, Tex-Mex, Burger"
+955,6200110.0,Aalishan,Qatar,Doha,464,4.0,"North Indian, Chinese, Turkish"
+956,18626843.0,Desi Dhaba Restaurant ,Qatar,Doha,561,4.2,"North Indian, Chinese"
+957,6201323.0,Yee Hwa,Qatar,Doha,479,4.6,"Korean, Japanese, Sushi"
+958,6200412.0,Turkey Central Restaurant - مطعم تركيا المركزي,Qatar,Doha,743,4.5,Turkish
+959,6201976.0,Indian Coffee House,Qatar,Doha,608,3.8,Indian
+960,18451647.0,Soru Izakaya,Phillipines,Quezon City,878,4.6,Japanese
+961,18245912.0,Sunnies Cafe,Phillipines,Taguig City,546,4.2,Coffee
+962,6310488.0,Saboten,Phillipines,Taguig City,637,4.8,"Japanese, Asian"
+963,18506282.0,Sibyullee,Phillipines,Pasig City,645,4.7,Korean
+964,18684182.0,Soru Izakaya,Phillipines,Taguig City,544,4.5,Japanese
+965,18641526.0,PizzaExpress,Phillipines,Taguig City,268,4.8,"Pizza, Italian"
+966,6318945.0,Nikkei,Phillipines,Makati City,394,4.6,"Japanese, Latin American"
+967,6316125.0,Mendokoro Ramenba,Phillipines,Makati City,1832,4.9,"Japanese, Ramen"
+968,6313941.0,Chelsea Kitchen,Phillipines,Mandaluyong City,598,4.1,"European, Desserts"
+969,18695427.0,Mendokoro Ramenba,Phillipines,Taguig City,490,4.9,"Japanese, Ramen"
+970,18278135.0,Sunnies Cafe,Phillipines,Mandaluyong City,326,3.9,Coffee
+971,18594729.0,Nikkei,Phillipines,Mandaluyong City,312,4.8,"Japanese, Latin American"
+972,6304287.0,Izakaya Kikufuji,Phillipines,Makati City,1293,4.6,Japanese
+973,18409457.0,Soban K-Town Grill,Phillipines,Makati City,935,4.7,"Korean, Grill"
+974,6318506.0,Ooma,Phillipines,Mandaluyong City,1167,4.9,"Japanese, Sushi"
+975,18376891.0,Single Origin,Phillipines,Makati City,273,4.4,"Coffee, American, European"
+976,6314147.0,Va Bene Pasta Deli,Phillipines,Taguig City,352,4.5,"European, Italian"
+977,6316532.0,Mama Lou's Italian Kitchen,Phillipines,Quezon City,631,4.5,Italian
+978,6300010.0,Spiral - Sofitel Philippine Plaza Manila,Phillipines,Pasay City,1228,4.9,"European, Asian, Indian"
+979,18643656.0,Nomi - Modern Japanese Cafe,Phillipines,Taguig City,287,4.3,"Coffee, Japanese"
+980,6403544.0,Jarryds,South Africa,Cape Town,535,4.8,"Cafe, Burger"
+981,6400918.0,Cape to Cuba,South Africa,Cape Town,215,3.7,Cuban
+982,6400217.0,Willoughby & Co.,South Africa,Cape Town,633,4.6,"Seafood, Japanese, Sushi"
+983,6401789.0,tashas,South Africa,Cape Town,476,4.3,"Cafe, Mediterranean"
+984,6403030.0,La Colombe,South Africa,Cape Town,175,4.9,"French, Asian"
+985,6400304.0,Eastern Food Bazaar,South Africa,Cape Town,436,4.0,"Asian, Indian"
+986,6401054.0,Kloof Street House,South Africa,Cape Town,519,4.7,Mediterranean
+987,6400078.0,Nuri Sushi Factory,South Africa,Cape Town,472,4.2,"Japanese, Sushi"
+988,6402904.0,The Larder,South Africa,Cape Town,180,4.2,"Cafe, Deli, Bakery, Burger, Desserts, Healthy Food, Juices"
+989,6402177.0,Salushi,South Africa,Cape Town,314,4.2,"Japanese, Sushi, Asian"
+990,18337822.0,Burger & Lobster,South Africa,Cape Town,281,4.5,"Seafood, Burger"
+991,6400191.0,Beluga,South Africa,Cape Town,705,4.1,"Seafood, Asian, Grill, Sushi"
+992,6400392.0,The Cousins Trattoria,South Africa,Cape Town,204,4.7,Italian
+993,6400175.0,The Fat Cactus,South Africa,Cape Town,434,4.2,"Mexican, Finger Food, Tex-Mex"
+994,6400097.0,Balducci,South Africa,Cape Town,266,4.0,"Italian, Sushi, Pizza"
+995,18337855.0,Three Wise Monkeys,South Africa,Cape Town,134,4.1,"Japanese, Asian"
+996,6400176.0,Sevruga,South Africa,Cape Town,560,4.2,"Seafood, Grill, Japanese, Asian, Sushi"
+997,6401314.0,The Potluck Club,South Africa,Cape Town,428,4.9,"European, Contemporary"
+998,6400212.0,Meloncino,South Africa,Cape Town,185,3.9,"Italian, Pizza"
+999,6401060.0,Jason Bakery,South Africa,Cape Town,347,4.4,"Cafe, Bakery"
+1000,6502134.0,The Whippet,South Africa,Randburg,822,4.6,Cafe
+1001,18767581.0,Saint,South Africa,Sandton,173,3.9,Italian
+1002,6517396.0,Momo Baohaus,South Africa,Johannesburg,542,4.6,"Asian, Sushi, Tapas"
+1003,18204217.0,Gemelli Cucina Bar,South Africa,Sandton,993,4.9,"Contemporary, Italian"
+1004,6517568.0,Jamie's Italian,South Africa,Sandton,711,4.2,Italian
+1005,6502688.0,Craft,South Africa,Johannesburg,1462,4.2,"European, Pizza"
+1006,6517281.0,Pablo Eggs-Go-Bar,South Africa,Johannesburg,412,4.5,"Cafe, Contemporary, Beverages, Burger, Desserts, Juices, Grill, African"
+1007,6516831.0,The Big Mouth,South Africa,Sandton,731,4.6,"Grill, Steak, Burger, Sushi, Tapas"
+1008,6517298.0,Kream,South Africa,Midrand,363,4.6,"South African, Contemporary, Sushi, International, African, French"
+1009,6501030.0,The Foundry,South Africa,Johannesburg,852,4.4,"Contemporary, Burger, Pizza"
+1010,6515339.0,Cafe Del Sol Botanico,South Africa,Sandton,656,4.7,"Italian, Pizza, Beverages, Desserts, Grill, Seafood"
+1011,6500789.0,The Green Peppercorn,South Africa,Sandton,735,4.4,"African, Mediterranean, Contemporary"
+1012,6515130.0,Hudsons,South Africa,Johannesburg,1098,4.2,"Burger, Finger Food, Pizza"
+1013,6501265.0,Dukes Burgers,South Africa,Johannesburg,952,4.5,Burger
+1014,6502130.0,Coobs,South Africa,Johannesburg,550,4.4,"Cafe, European, Continental"
+1015,6501365.0,Wombles,South Africa,Sandton,648,4.8,"Steak, Beverages, Desserts, Grill, Seafood"
+1016,6502041.0,KCC La Vie En Rose,South Africa,Johannesburg,681,4.3,"Contemporary, Cafe"
+1017,6500359.0,JB's Corner,South Africa,Sandton,557,4.1,"Italian, American, Sushi, Pizza"
+1018,6501169.0,Walnut Grove,South Africa,Sandton,617,4.2,"Cafe, Continental"
+1019,6501055.0,DW Eleven-13,South Africa,Sandton,635,4.9,European
+1020,6600440.0,Nau,Brazil,Brasília,9,3.9,Seafood
+1021,6601218.0,New Koto,Brazil,Brasília,9,4.1,Japanese
+1022,6601862.0,Taypá,Brazil,Brasília,11,4.0,"Peruvian, Latin American"
+1023,6601589.0,Coco Bambu,Brazil,Brasília,19,4.3,International
+1024,6601457.0,Brazilian American Burgers,Brazil,Brasília,11,3.9,"American, Burger"
+1025,6600214.0,Beirute,Brazil,Brasília,9,3.8,Arabian
+1026,6601549.0,It Speed Lunch,Brazil,Brasília,8,3.7,"Grill, Brazilian"
+1027,6601602.0,Taco Pep,Brazil,Brasília,31,4.5,"Mexican, Grill"
+1028,6600754.0,Carcassone,Brazil,Brasília,3,0,Bar Food
+1029,6600083.0,Villa Tevere,Brazil,Brasília,14,4.2,Italian
+1030,6600611.0,Fred,Brazil,Brasília,6,3.7,German
+1031,6601595.0,Outback Steakhouse,Brazil,Brasília,12,4.3,"American, Grill"
+1032,6600542.0,Avenida Paulista,Brazil,Brasília,0,0,"Italian, Pizza"
+1033,6601145.0,Bierfass Pontão,Brazil,Brasília,11,3.7,"Brazilian, Seafood"
+1034,6600879.0,Babel,Brazil,Brasília,5,2.8,Healthy Food
+1035,6600379.0,Sushi Loko,Brazil,Brasília,12,2.9,Japanese
+1036,6601158.0,Manzuá,Brazil,Brasília,7,3.4,Seafood
+1037,6600963.0,La Chaumière,Brazil,Brasília,4,3.3,French
+1038,6601005.0,Café Daniel Briand,Brazil,Brasília,12,3.9,Cafe
+1039,6600116.0,Gero,Brazil,Brasília,9,3.5,Italian
+1040,6703405.0,Porque Sim,Brazil,São Paulo,20,4.3,"Japanese, Sushi"
+1041,6709740.0,Mocotó,Brazil,São Paulo,30,4.8,"Brazilian, North Eastern"
+1042,6700992.0,La Tambouille,Brazil,São Paulo,5,4.0,"French, Italian, Brazilian"
+1043,6712911.0,Coco Bambú,Brazil,São Paulo,39,4.4,Seafood
+1044,6701071.0,Z Deli Sandwich Shop,Brazil,São Paulo,35,4.9,"Burger, Sandwich"
+1045,6711666.0,Kinoshita,Brazil,São Paulo,11,4.2,Sushi
+1046,6712917.0,Coco Bambú,Brazil,São Paulo,24,4.0,Seafood
+1047,6709580.0,Esquina Mocotó,Brazil,São Paulo,21,4.5,"Brazilian, North Eastern"
+1048,6713772.0,Sainte Marie Gastronomia,Brazil,São Paulo,15,4.3,"Lebanese, Arabian"
+1049,6715930.0,Tanit,Brazil,São Paulo,5,3.4,"Spanish, Tapas"
+1050,6701853.0,Vicolo Nostro,Brazil,São Paulo,6,3.8,Italian
+1051,6715715.0,A Casa do Porco,Brazil,São Paulo,17,4.3,Bar Food
+1052,6700410.0,Tatini,Brazil,São Paulo,3,3.7,Italian
+1053,6702013.0,Jam,Brazil,São Paulo,11,4.1,"Sushi, Japanese"
+1054,6702374.0,Fasano - Hotel Fasano,Brazil,São Paulo,12,4.2,International
+1055,6712927.0,D.O.M.,Brazil,São Paulo,23,4.8,"Contemporary, Brazilian"
+1056,6715789.0,Djapa,Brazil,São Paulo,6,3.6,"Japanese, Sushi"
+1057,6701049.0,Bistrot de Paris,Brazil,São Paulo,8,4.0,French
+1058,6715851.0,Fleming’s Prime Steakhouse & Wine Bar,Brazil,São Paulo,5,3.8,Steak
+1059,6713209.0,Agello Cucina,Brazil,São Paulo,2,3.4,Italian
+1060,6801374.0,Solita,United Kingdom,Manchester,138,4.9,"American, Burger, Grill"
+1061,6800878.0,The Alchemist,United Kingdom,Manchester,34,4.0,"European, Contemporary"
+1062,17855562.0,Tattu Restaurant and Bar,United Kingdom,Manchester,19,3.5,Chinese
+1063,6801293.0,Hard Rock Cafe,United Kingdom,Manchester,64,4.3,American
+1064,6801900.0,Evuna Bar & Restaurant,United Kingdom,Manchester,6,3.4,"Spanish, Tapas"
+1065,6800908.0,Mughli,United Kingdom,Manchester,84,4.6,"Indian, Curry"
+1066,18253075.0,Yard & Coop,United Kingdom,Manchester,10,3.4,"American, British"
+1067,6800678.0,Lahore,United Kingdom,Manchester,46,3.9,"Indian, Grill"
+1068,6801329.0,Home Sweet Home,United Kingdom,Manchester,80,4.3,"British, Burger, Cafe"
+1069,6801386.0,Cafe North,United Kingdom,Manchester,11,3.7,Cafe
+1070,6800759.0,The Grill on New York Street,United Kingdom,Manchester,28,3.8,"British, Mexican, Seafood"
+1071,6801039.0,San Carlo,United Kingdom,Manchester,187,4.4,Italian
+1072,6800235.0,The Grill On The Alley,United Kingdom,Manchester,171,4.6,"Steak, Seafood, Grill"
+1073,6800593.0,Zouk Tea Bar & Grill,United Kingdom,Manchester,69,3.8,"Indian, Seafood"
+1074,6801827.0,Umezushi,United Kingdom,Manchester,26,4.1,Japanese
+1075,6800782.0,The French by Simon Rogan - The Midland,United Kingdom,Manchester,69,4.5,French
+1076,6801867.0,Manchester House,United Kingdom,Manchester,45,4.2,British
+1077,6801984.0,Ibérica,United Kingdom,Manchester,17,3.9,"Spanish, Tapas"
+1078,17855602.0,Turtle Bay,United Kingdom,Manchester,8,3.5,Caribbean
+1079,6801884.0,Pieminister,United Kingdom,Manchester,14,3.7,Bakery
+1080,6901318.0,Adam's Restaurant,United Kingdom,Birmingham,74,4.3,Continental
+1081,6900674.0,Purnell's,United Kingdom,Birmingham,70,4.6,Contemporary
+1082,6900050.0,Jamie's Italian,United Kingdom,Birmingham,35,4.0,Italian
+1083,6900669.0,Fiesta del Asado,United Kingdom,Birmingham,26,4.1,"Latin American, Italian"
+1084,6900078.0,Jimmy Spices,United Kingdom,Birmingham,53,4.1,"Indian, Middle Eastern, Chinese, American, European"
+1085,6900224.0,Chaophraya,United Kingdom,Birmingham,19,4.0,Thai
+1086,6900883.0,Ju Ju's Cafe,United Kingdom,Birmingham,12,3.8,"Cafe, British"
+1087,6900374.0,Bank,United Kingdom,Birmingham,52,4.1,"British, Steak"
+1088,6901062.0,The Warehouse Cafe,United Kingdom,Birmingham,10,3.9,"British, Cafe"
+1089,6900724.0,Bodega,United Kingdom,Birmingham,34,4.8,Latin American
+1090,6900388.0,Lasan Restaurant,United Kingdom,Birmingham,67,4.3,Indian
+1091,18273002.0,Damascena Coffee House,United Kingdom,Birmingham,7,3.8,"Greek, Mediterranean, Middle Eastern"
+1092,6901051.0,The Plough,United Kingdom,Birmingham,32,4.3,British
+1093,6900227.0,Wagamama,United Kingdom,Birmingham,56,4.6,Japanese
+1094,6900288.0,Fargo's Food Factory,United Kingdom,Birmingham,11,3.8,"Burger, Steak, Indian, Pizza, Desserts, Chinese"
+1095,6900160.0,Handmade Burger Co.,United Kingdom,Birmingham,20,3.9,"Burger, American"
+1096,6900843.0,Chennai Dosa,United Kingdom,Birmingham,40,3.8,"Indian, South Indian"
+1097,6900692.0,Simpsons Restaurants,United Kingdom,Birmingham,58,4.5,British
+1098,6900106.0,Pushkar,United Kingdom,Birmingham,37,4.4,Indian
+1099,6900339.0,Asha's,United Kingdom,Birmingham,48,4.2,Indian
+1100,18749437.0,Belly Worship,New Zealand,Auckland,444,4.3,"Asian, Chinese, Asian Fusion, Street Food"
+1101,7009344.0,Major Sprout,New Zealand,Auckland,561,4.5,Cafe Food
+1102,7006421.0,PappaRich,New Zealand,Auckland,801,4.2,Malaysian
+1103,7003621.0,Circus Circus,New Zealand,Auckland,765,4.2,"Cafe Food, European"
+1104,7001859.0,KK Malaysian Cuisine,New Zealand,Auckland,529,4.2,Malaysian
+1105,18393092.0,Amano Restaurant,New Zealand,Auckland,598,4.9,Italian
+1106,18667488.0,Wu and You,New Zealand,Auckland,262,4.2,"Asian, Asian Fusion"
+1107,18491782.0,Oak Eatery,New Zealand,Auckland,225,4.7,"Desserts, Healthy Food, Cafe Food"
+1108,7003804.0,Fact-Tree Cafe,New Zealand,Auckland,405,4.4,"Cafe Food, Coffee and Tea, Desserts, Healthy Food, Kiwi"
+1109,7000992.0,Eden Noodles Cafe 四川担担面,New Zealand,Auckland,718,4.5,Chinese
+1110,7003663.0,Federal Delicatessen,New Zealand,Auckland,1130,4.7,American
+1111,7006945.0,Fokker Bros,New Zealand,Auckland,207,4.1,"American, Burger"
+1112,7003018.0,Paradise,New Zealand,Auckland,1287,4.4,Indian
+1113,7004225.0,Thai Street,New Zealand,Auckland,325,4.0,Thai
+1114,7003660.0,Miss Clawdy,New Zealand,Auckland,571,4.2,"Creole, American"
+1115,7000700.0,Pocha 포차,New Zealand,Auckland,512,4.5,"Korean, Fried Chicken"
+1116,7004412.0,The Shelf,New Zealand,Auckland,666,4.4,"Cafe Food, Coffee and Tea, Desserts"
+1117,7001670.0,"Eight - Cordis, Auckland Hotel",New Zealand,Auckland,755,4.7,"European, Seafood, Grill"
+1118,18672367.0,Chamate,New Zealand,Auckland,309,4.2,"Asian, Chinese, Seafood, Yum Cha, Dumplings, Hot Pot, BBQ"
+1119,7003002.0,Chikos Restaurant & Cafe,New Zealand,Auckland,354,4.7,"Kiwi, Asian, Pacific, Filipino, Japanese"
+1120,7100502.0,Fidel's,New Zealand,Wellington City,346,4.6,"European, Mexican, Cafe Food"
+1121,7100693.0,Sweet Mother's Kitchen,New Zealand,Wellington City,378,4.2,"Mexican, American"
+1122,7101042.0,The Hangar,New Zealand,Wellington City,269,4.8,Cafe Food
+1123,7100142.0,Origami,New Zealand,Wellington City,136,4.3,"Japanese, Sushi"
+1124,7100171.0,Ombra,New Zealand,Wellington City,230,4.9,Italian
+1125,7101145.0,Mama Brown,New Zealand,Wellington City,233,4.1,"Mexican, American, Cafe Food"
+1126,7101967.0,PappaRich,New Zealand,Wellington City,145,4.3,Malaysian
+1127,7100788.0,The Crab Shack,New Zealand,Wellington City,301,4.3,"Seafood, Kiwi"
+1128,7100538.0,Scopa Caffe Cucina,New Zealand,Wellington City,200,4.5,"Italian, Pizza"
+1129,7101081.0,Charley Noble Eatery & Bar,New Zealand,Wellington City,190,4.7,European
+1130,7100546.0,KC Cafe & Takeaway,New Zealand,Wellington City,153,4.2,"Chinese, Asian"
+1131,7100064.0,Chow,New Zealand,Wellington City,311,4.5,Asian
+1132,7101310.0,Loretta,New Zealand,Wellington City,158,4.5,"European, Cafe Food"
+1133,7100798.0,Dragons,New Zealand,Wellington City,150,4.2,Chinese
+1134,7100535.0,Midnight Espresso,New Zealand,Wellington City,213,4.4,Cafe Food
+1135,7101011.0,Ekim Burgers,New Zealand,Wellington City,247,4.4,Fast Food
+1136,7100224.0,Ortega Fish Shack & Bar,New Zealand,Wellington City,141,4.9,Seafood
+1137,7101483.0,Burger Liquor,New Zealand,Wellington City,185,4.4,American
+1138,7100178.0,Monsoon Poon,New Zealand,Wellington City,205,4.3,Asian
+1139,7100865.0,Shed 5,New Zealand,Wellington City,139,4.5,"European, Pacific"
+1140,7210754.0,The Golconda Bowl,NA,Dummy,0,0,"North Indian, Mughlai"
+1141,7204069.0,California Cantina,NA,Dummy,0,0,"Burger, Fast Food, Mexican, American, Pizza"
+1142,7200516.0,Bardelli's,NA,Dummy,0,0,South Indian
+1143,18133267.0,Baton Rouge,NA,Dummy,0,0,Steak
+1144,7204711.0,Dunkin Donuts,NA,Dummy,0,0,"Fast Food, Desserts"
+1145,7204029.0,L'Opera,NA,Dummy,0,0,Bakery
+1146,5.0,Yoko Sizzlers,NA,Dummy,0,0,Japanese
+1147,7200182.0,Kauai,NA,Dummy,0,0,Healthy Food
+1148,7204328.0,Mcdonalds,NA,Dummy,0,0,"Italian, North Indian"
+1149,3.0,Cafe Mangii,NA,Dummy,0,0,"Italian, European, Bakery"
+1150,2.0,PHD,NA,Dummy,0,0,"Fast Food, Biryani"
+1151,10.0,Hotel Sai Palace Garden,NA,Dummy,0,0,"North Indian, Chinese, South Indian"
+1152,7204068.0,La Pescadería de Walker,NA,Dummy,0,0,Seafood
+1153,7204327.0,Lane Cuisine Turc - Zorlu Alışveriş Merkezi,NA,Dummy,0,0,Turkish
+1154,7204032.0,4700 BC Popcorn,NA,Dummy,0,0,Desserts
+1155,7206255.0,Indian Zaik,NA,Dummy,0,0,"Fast Food, Indian"
+1156,7209209.0,Arabic Nights,NA,Dummy,0,0,"Turkish, Mediterranean"
+1157,15557859.0,Domino's Pizza,NA,Dummy,0,0,"Pizza, Fast Food"
+1158,15561694.0,Geometrico,NA,Dummy,0,0,Others
+1159,15561685.0,El Patio,NA,Dummy,0,0,Healthy Food
+1160,7302200.0,Mamma Jamma,Brazil,Rio de Janeiro,12,4.5,Pizza
+1161,7303710.0,Paris 6,Brazil,Rio de Janeiro,28,4.4,French
+1162,7302898.0,Aprazível,Brazil,Rio de Janeiro,63,4.9,Brazilian
+1163,7304801.0,Camarada Camarão,Brazil,Rio de Janeiro,5,4.1,"Brazilian, North Eastern, Seafood"
+1164,7301965.0,Pérgula - Copacabana Palace,Brazil,Rio de Janeiro,3,4.2,International
+1165,7304307.0,Confeitaria Colombo,Brazil,Rio de Janeiro,40,4.6,"Desserts, Cafe"
+1166,7300515.0,Garota de Ipanema,Brazil,Rio de Janeiro,58,4.8,"Brazilian, Bar Food"
+1167,7300679.0,Zuka,Brazil,Rio de Janeiro,21,4.5,"Italian, Contemporary"
+1168,7302026.0,La Trattoria,Brazil,Rio de Janeiro,11,4.5,Italian
+1169,7300381.0,Churrascaria Palace,Brazil,Rio de Janeiro,20,4.9,Steak
+1170,7301497.0,Marius Degustare,Brazil,Rio de Janeiro,16,4.7,"Seafood, International, Grill"
+1171,7301112.0,Giuseppe Grill Mar,Brazil,Rio de Janeiro,11,4.5,"Brazilian, Grill, Seafood"
+1172,7300483.0,Zazá Bistrô Tropical,Brazil,Rio de Janeiro,26,4.7,Brazilian
+1173,7300650.0,Quadrucci,Brazil,Rio de Janeiro,11,4.5,"Italian, Contemporary"
+1174,7301102.0,Oro,Brazil,Rio de Janeiro,3,4.3,Brazilian
+1175,7302987.0,Téreze - Hotel Santa Teresa,Brazil,Rio de Janeiro,7,4.3,International
+1176,7303219.0,Pesqueiro Eco Gourmet,Brazil,Rio de Janeiro,5,4.2,"Seafood, Bar Food, Brazilian"
+1177,7301082.0,Olympe,Brazil,Rio de Janeiro,3,4.2,French
+1178,7302549.0,Café do Alto,Brazil,Rio de Janeiro,5,4.3,"Brazilian, Cafe"
+1179,7304351.0,CT Boucherie,Brazil,Rio de Janeiro,14,4.5,"French, Steak"
+1180,18615392.0,WAKI Japanese BBQ Dining,Indonesia,Jakarta,1242,4.9,"Japanese, Grill, BBQ, Korean, Asian"
+1181,18657719.0,Gyu - Kaku Japanese BBQ,Indonesia,Jakarta,1013,4.8,"Japanese, BBQ"
+1182,18744154.0,Sushi Hiro,Indonesia,Jakarta,1492,4.9,"Sushi, Japanese"
+1183,18567253.0,Sushi Hiro,Indonesia,Jakarta,4416,4.9,"Sushi, Japanese"
+1184,18885812.0,Sushi Go!,Indonesia,Jakarta,1308,4.9,"Japanese, Sushi"
+1185,18511433.0,Sushi Go!,Indonesia,Jakarta,1864,4.7,"Japanese, Sushi"
+1186,18710176.0,The Garden,Indonesia,Jakarta,1025,4.6,"Western, Asian"
+1187,18554965.0,Magal Mapogalmegi BBQ,Indonesia,Jakarta,1219,4.9,"BBQ, Korean, Grill"
+1188,18597282.0,Sushi Go!,Indonesia,Jakarta,2704,4.8,"Sushi, Japanese"
+1189,18589077.0,Sushi Hiro,Indonesia,Jakarta,1957,4.8,"Sushi, Japanese"
+1190,18981544.0,Katsu YA,Indonesia,Jakarta,294,4.2,Japanese
+1191,18680113.0,The Cutt Grill House,Indonesia,Jakarta,675,4.8,"Grill, Western"
+1192,18464311.0,Sushi Hiro,Indonesia,Jakarta,2373,4.9,"Sushi, Japanese"
+1193,18806670.0,Sushi Go!,Indonesia,Jakarta,730,4.7,Sushi
+1194,18793437.0,Gyu - Kaku Japanese BBQ,Indonesia,Jakarta,1014,4.9,"Japanese, BBQ"
+1195,18560991.0,Lawless Burgerbar,Indonesia,Jakarta,979,4.7,"Burger, Western"
+1196,18745318.0,Alfred,Indonesia,Jakarta,423,4.4,"Western, Indonesian"
+1197,18266425.0,Gyu - Kaku Japanese BBQ,Indonesia,Jakarta,1351,4.9,"Japanese, BBQ"
+1198,18880385.0,Gyu - Kaku Japanese BBQ,Indonesia,Jakarta,682,4.9,"Japanese, BBQ"
+1199,7421967.0,3 Wise Monkeys,Indonesia,Jakarta,1652,4.5,"Japanese, Sushi"
+1200,75970.0,afro-boer,South Africa,Pretoria,128,4.2,"Cafe, Bakery, Street Food, Patisserie, South African, Healthy Food, Desserts"
+1201,75609.0,Capital Craft Beer Academy,South Africa,Pretoria,402,4.5,"Street Food, Burger, American, Finger Food, German"
+1202,75027.0,Kream,South Africa,Pretoria,530,4.8,African
+1203,18289339.0,Culture Club - Bar De Tapas,South Africa,Pretoria,260,4.7,"Cafe, Tapas, South African, Beverages, Healthy Food, Desserts, Spanish"
+1204,75380.0,The Black Bamboo,South Africa,Pretoria,178,4.7,"Continental, Contemporary, Desserts"
+1205,75858.0,Crawdaddy's,South Africa,Pretoria,225,4.4,"Continental, Seafood, Burger, South African, Finger Food, Grill"
+1206,75376.0,Tribeca Standard,South Africa,Pretoria,231,3.9,"Cafe, Burger, Pizza"
+1207,18408129.0,Industrial Coffee Works,South Africa,Pretoria,110,4.1,"Cafe, Street Food, Burger, Ethiopian, South African, Juices"
+1208,75026.0,Baobab Cafe & Grill,South Africa,Pretoria,304,4.2,"Cafe, Grill"
+1209,75485.0,Doppio Zero,South Africa,Pretoria,170,3.9,"Italian, Cafe, Bakery"
+1210,18199742.0,El Pistolero,South Africa,Pretoria,182,4.4,Mexican
+1211,18445965.0,Guy Fieri's Kitchen & Bar,South Africa,Pretoria,183,2.2,"American, Italian, Continental"
+1212,75121.0,Moo Moo,South Africa,Pretoria,331,4.2,"Steak, Continental"
+1213,75104.0,Parrot's,South Africa,Pretoria,183,3.7,"Contemporary, Sushi, Grill, Italian, Steak"
+1214,18376958.0,Mustang Sally's Pub & Diner,South Africa,Pretoria,122,3.8,"Healthy Food, Burger, American, Desserts, Grill"
+1215,18136493.0,Hogshead,South Africa,Pretoria,297,4.2,"Grill, Burger"
+1216,18445936.0,Something's Cooking by J,South Africa,Pretoria,145,3.6,"South African, Portuguese, Burger, Pizza"
+1217,18199767.0,Carbon Bistro,South Africa,Pretoria,167,4.5,"Seafood, Burger, Steak"
+1218,18376953.0,tashas,South Africa,Pretoria,109,4.2,"Cafe, Healthy Food"
+1219,75620.0,Whisk Wine Bar,South Africa,Pretoria,135,4.1,"European, Tapas"
+1220,7601024.0,Ting Thai Caravan,United Kingdom,Edinburgh,110,4.6,"Thai, Asian"
+1221,7600188.0,Mother India's Cafe,United Kingdom,Edinburgh,137,4.5,Indian
+1222,7601102.0,Chaophraya,United Kingdom,Edinburgh,57,4.4,Thai
+1223,7600471.0,The Elephant House,United Kingdom,Edinburgh,90,4.1,Cafe
+1224,18408677.0,Dishoom Edinburgh,United Kingdom,Edinburgh,64,4.5,"Cafe, Indian"
+1225,7600929.0,David Bann,United Kingdom,Edinburgh,76,4.5,"Asian, Italian, Mediterranean, European"
+1226,7602204.0,El Cartel,United Kingdom,Edinburgh,34,4.1,Mexican
+1227,7600432.0,The Royal McGregor,United Kingdom,Edinburgh,17,3.5,Scottish
+1228,7600217.0,La Favorita,United Kingdom,Edinburgh,110,4.6,Italian
+1229,7600062.0,Hard Rock Cafe,United Kingdom,Edinburgh,89,4.3,American
+1230,7600307.0,Angels With Bagpipes,United Kingdom,Edinburgh,44,4.0,Scottish
+1231,7600448.0,Cafe Andaluz,United Kingdom,Edinburgh,95,4.4,"Spanish, Tapas"
+1232,7600902.0,Mimi's Bakehouse,United Kingdom,Edinburgh,76,4.6,"Cafe, Bakery, Desserts"
+1233,7600792.0,Wedgwood,United Kingdom,Edinburgh,65,4.2,"Scottish, British"
+1234,7601241.0,The Kitchin,United Kingdom,Edinburgh,143,4.5,"British, French"
+1235,7600083.0,Castle Terrace,United Kingdom,Edinburgh,57,4.4,"British, Scottish, French"
+1236,7600381.0,Fishers In The City,United Kingdom,Edinburgh,73,4.3,"Seafood, British"
+1237,7601177.0,Tuk Tuk Indian Street Food,United Kingdom,Edinburgh,75,4.1,"Indian, Street Food"
+1238,7600914.0,The Witchery & The Secret Garden,United Kingdom,Edinburgh,112,4.2,"British, Scottish, Seafood"
+1239,7600636.0,Number One - Balmoral Hotel,United Kingdom,Edinburgh,35,4.0,European
+1240,7700615.0,Wagamama,United Kingdom,Glasgow,136,4.3,Japanese
+1241,7700043.0,Nanakusa,United Kingdom,Glasgow,71,4.2,"Japanese, Grill"
+1242,7700258.0,Chaophraya,United Kingdom,Glasgow,51,3.6,Thai
+1243,7700025.0,The Butterfly & The Pig,United Kingdom,Glasgow,53,3.9,British
+1244,7701552.0,Elia,United Kingdom,Glasgow,77,4.4,Greek
+1245,7700329.0,The Dhabba,United Kingdom,Glasgow,80,3.8,Indian
+1246,7700780.0,The Two Figs,United Kingdom,Glasgow,42,3.9,"British, Scottish"
+1247,7700672.0,The Battlefield Restaurant,United Kingdom,Glasgow,104,4.4,"Italian, Scottish, Continental"
+1248,7700796.0,Celino's,United Kingdom,Glasgow,79,4.9,"Italian, Deli"
+1249,7700470.0,Rishi's,United Kingdom,Glasgow,41,3.8,Indian
+1250,7701386.0,La Tasca,United Kingdom,Glasgow,64,4.1,Spanish
+1251,7700440.0,The Italian Caffe,United Kingdom,Glasgow,46,4.0,Italian
+1252,7700495.0,The Butchershop Bar & Grill,United Kingdom,Glasgow,67,4.1,"Grill, Steak, Scottish, British"
+1253,7700694.0,Ubiquitous Chip,United Kingdom,Glasgow,113,4.1,"Scottish, British"
+1254,7700834.0,Stravaigin,United Kingdom,Glasgow,104,4.3,Scottish
+1255,7700300.0,Jamie's Italian,United Kingdom,Glasgow,168,2.9,Italian
+1256,7701457.0,Mother India Cafe,United Kingdom,Glasgow,126,4.8,Indian
+1257,7700065.0,Ichiban,United Kingdom,Glasgow,133,4.6,Japanese
+1258,7700026.0,Dakhin,United Kingdom,Glasgow,43,3.9,"Indian, South Indian"
+1259,7700850.0,Hillhead Bookclub,United Kingdom,Glasgow,71,3.6,"British, Scottish"
+1260,7800282.0,Circus Circus Cafe,South Africa,Durban,141,4.2,"Mediterranean, Continental"
+1261,7800523.0,Roma Revolving Restaurant,South Africa,Durban,144,3.9,"Italian, Seafood, Steak"
+1262,7800372.0,Vovo Telo,South Africa,Durban,162,4.1,"Cafe, Bakery, Desserts"
+1263,18362280.0,The Chefs' Table,South Africa,Durban,106,4.7,International
+1264,7800495.0,The Ocean Terrace - The Oyster Box Hotel,South Africa,Durban,194,4.6,"Indian, Durban, Continental"
+1265,7800663.0,The Galley Beach Bar & Grill,South Africa,Durban,120,3.2,"Grill, Seafood"
+1266,7800284.0,Beluga,South Africa,Durban,241,3.8,"Seafood, Asian"
+1267,7800310.0,Daruma - Elangeni & Maharani,South Africa,Durban,100,4.3,"Japanese, Sushi"
+1268,7800531.0,Freedom Cafe,South Africa,Durban,119,4.1,"Deli, South African"
+1269,7800959.0,The Waffle House,South Africa,Durban,195,4.8,"Desserts, Finger Food"
+1270,7800905.0,Bel Punto,South Africa,Durban,177,4.9,Seafood
+1271,18216520.0,Fourteen on Chartwell,South Africa,Durban,166,4.5,Continental
+1272,7800437.0,Market,South Africa,Durban,156,4.4,Cafe
+1273,7800380.0,Little Havana,South Africa,Durban,130,4.2,Continental
+1274,7800541.0,Jack Salmon,South Africa,Durban,91,4.3,Seafood
+1275,7800551.0,Mali's Indian Restaurant,South Africa,Durban,122,4.6,Indian
+1276,7800516.0,Ile Maurice,South Africa,Durban,113,4.3,French
+1277,7800157.0,tashas,South Africa,Durban,174,4.3,Cafe
+1278,7800462.0,9th Avenue Bistro,South Africa,Durban,93,4.5,French
+1279,18473006.0,Casa Bella,South Africa,Durban,59,3.8,"Italian, Pizza"
+1280,7900198.0,Sichuan Style Restaurant,New Zealand,Hamilton,72,4.3,Chinese
+1281,7900069.0,Babaganush,New Zealand,Hamilton,76,4.0,Turkish
+1282,7900141.0,Daikoku Restaurant,New Zealand,Hamilton,50,3.6,"Japanese, Teppanyaki"
+1283,7900355.0,The Sugar Bowl Cafe,New Zealand,Hamilton,80,4.1,Cafe Food
+1284,7900646.0,The Chilli House,New Zealand,Hamilton,28,4.0,"Chinese, Dumplings, Hot Pot, Sichuan, Vegan, Vegetarian"
+1285,7900250.0,Gothenburg,New Zealand,Hamilton,100,4.6,European
+1286,7900322.0,The Helm,New Zealand,Hamilton,64,2.5,European
+1287,7900419.0,Two Birds Eatery,New Zealand,Hamilton,65,3.8,Cafe Food
+1288,7900218.0,Foundation Bar Kitchen & Lounge,New Zealand,Hamilton,95,4.3,Steak
+1289,18319871.0,Zealong Tea Estate,New Zealand,Hamilton,24,4.4,Cafe Food
+1290,7903141.0,Jacks Coffee Lounge,New Zealand,Hamilton,53,4.1,Cafe Food
+1291,7900287.0,The River Kitchen,New Zealand,Hamilton,62,4.2,"Cafe Food, Coffee and Tea"
+1292,7900349.0,Good George Brewing,New Zealand,Hamilton,51,4.1,"Kiwi, European, Finger Food"
+1293,7900238.0,Scotts Epicurean,New Zealand,Hamilton,117,4.4,Cafe Food
+1294,7900011.0,Sultan's Kitchen,New Zealand,Hamilton,33,4.0,"Turkish, Mediterranean, Moroccan"
+1295,7900186.0,Mexico,New Zealand,Hamilton,100,4.2,Mexican
+1296,7900182.0,Thai House Express,New Zealand,Hamilton,51,4.0,Thai
+1297,7900023.0,Indian Star,New Zealand,Hamilton,63,3.8,"North Indian, Indian"
+1298,7900490.0,Zealong Tea Estate,New Zealand,Hamilton,55,4.7,"European, Asian, Desserts"
+1299,7900115.0,The Flying Burrito Brothers,New Zealand,Hamilton,58,3.9,Mexican
